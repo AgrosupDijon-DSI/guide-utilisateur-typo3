@@ -1,4 +1,0 @@
-# Glossary
-
-## Fiches d'utilisation
-
