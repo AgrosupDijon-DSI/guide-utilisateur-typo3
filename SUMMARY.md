@@ -1,9 +1,6 @@
 # Summary
 
-## Preview
+## Guide Typo3
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-
-## Test
 * [Test](test.md)
 
