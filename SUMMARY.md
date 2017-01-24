@@ -1,8 +1,7 @@
 # Sommaire
 
 ## Préambule
-* [Introduction](README.md)
-* [Organisation et fonctionnement](organisation_et_fonctionnement_du_site.md)
+* [Organisation et fonctionnement](organisation-et-fonctionnement-du-site.md)
 * [Recommandations éditoriales](recommandations-éditoriales.md)
     * [Du papier à l'écran](du-papier-à-lécran.md)
 
