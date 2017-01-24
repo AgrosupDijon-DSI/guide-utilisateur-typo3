@@ -4,16 +4,21 @@
 
 Un site est structuré, de manière générale, en 4 grandes parties :
 
-* une page d'accueil 
-* un menu principal comprenant toutes les pages du site autre que celle d'accueil : ces pages constituent l'arborescence du site et sont déclinées généralement sur 3 niveaux 
+* une page d'accueil ;
+
+* un menu principal comprenant toutes les pages du site autre que celle d'accueil : ces pages constituent l'arborescence du site et sont déclinées généralement sur 3 niveaux ;
+
 * un menu "outils" comprenant par exemple les pages suivantes :
+
   * le retour à page d'accueil du site 
   * la page des actualités 
   * le plan du site 
-  * la page contact \(coordonnées de l'organisme et formulaire de contact par exemple\) 
+  * la page contact \(coordonnées de l'organisme et formulaire de contact par exemple\)
 
-* un pied de page comprenant au moins les mentions légales du site 
-  Il existe 2 types de pages : 
+
+* un pied de page comprenant au moins les mentions légales du site   
+  Il existe 2 types de pages :
+
   * la page d'accueil 
   * toutes les autres pages appelées "pages de descente"
 
@@ -22,21 +27,30 @@ Un exemple d'arborescence d'un site d'un organisme quelconque pourrait être le 
 
 ## Étapes préalables à la conception du site
 
-Avant de saisir le contenu du site, il est indispensable de réfléchir à l'architecture de celui-ci. Voici quelques indications afin d'optimiser la construction du site :   
-1. Définir le contenu brut du site Web c'est-à-dire réfléchir aux textes et images qui constitueront le site, sans mise en forme.   
-2. Définir le scénario de consultation \(ou de navigation\) pour l'ensemble des contenus du site. Cette étape aide à définir l'architecture des pages avant de réfléchir à celle des contenus au sein de chaque page. Il s'agit de définir le nombre de pages à construire, le lien entre ces pages et leur enchaînement.   
-3. Schématiser l'arborescence du site sur papier en s'aidant de l'exemple présenté précédemment.   
-4. Réunir les contenus des pages \(textes, documents, images\), il s'agit là d'organiser les contenus bruts en fonction du scénario imaginé.  
-5. Cas particulier  
-Il est possible que certaines pages n’aient pas de contenu. En effet, les informations nécessaires à ces rubriques sont contenues dans leurs sous pages.   
-Pour ne pas laisser de page blanche, il est judicieux de faire apparaître un menu composé de liens vers les différentes sous pages.  
+Avant de saisir le contenu du site, il est indispensable de réfléchir à l'architecture de celui-ci. Voici quelques indications afin d'optimiser la construction du site :
+
+1. Définir le contenu brut du site Web c'est-à-dire réfléchir aux textes et images qui constitueront le site, sans mise en forme.
+
+2. Définir le scénario de consultation \(ou de navigation\) pour l'ensemble des contenus du site. Cette étape aide à définir l'architecture des pages avant de réfléchir à celle des contenus au sein de chaque page. Il s'agit de définir le nombre de pages à construire, le lien entre ces pages et leur enchaînement.
+
+3. Schématiser l'arborescence du site sur papier en s'aidant de l'exemple présenté précédemment.
+
+4. Réunir les contenus des pages \(textes, documents, images\), il s'agit là d'organiser les contenus bruts en fonction du scénario imaginé.
+
+5. Cas particulier :
+
+
+Il est possible que certaines pages n’aient pas de contenu. En effet, les informations nécessaires à ces rubriques sont contenues dans leurs sous pages.
+
+Pour ne pas laisser de page blanche, il est judicieux de faire apparaître un menu composé de liens vers les différentes sous pages.
+
 Par exemple une page "Présentation » comme ci-dessous :
 
 ## Acteurs
 
 Il existe, de manière générale, deux types de profils sur les sites : administrateur et rédacteur
 
-La tâche des rédacteurs est de créer et saisir de nouveaux contenus, de les adapter et les intégrer au site Web.   
+La tâche des rédacteurs est de créer et saisir de nouveaux contenus, de les adapter et les intégrer au site Web.  
 L’administrateur attribue au préalable des droits aux rédacteurs. Dès lors, ils accèdent à un espace de travail qui correspond aux tâches et aux ressources qui leur sont allouées.  
 Il est conseillé de limiter le nombre de rédacteurs afin de conserver une homogénéité éditoriale. Il ne faut pas qu'au fur et à mesure que l'on navigue sur le site, on se rende compte nettement que plusieurs rédacteurs in  
 terviennent dans la mise à jour des contenus.
@@ -69,7 +83,7 @@ Les mentions légales sont obligatoires dans un site web. Elles permettent d'inf
 > B.P. 87999  
 > 21079 Dijon Cedex
 >
-> Ce site web a été réalisé avec le système de gestion de Contenu TYPO3 - get.content.right. Typo3 est un logiciel   
+> Ce site web a été réalisé avec le système de gestion de Contenu TYPO3 - get.content.right. Typo3 est un logiciel  
 > open source créé par Kasper Skaarhoj et placé sous licence GNU/GPL.  
 > Information et contribution : [http://www.typo3.com](http://www.typo3.com)
 >
