@@ -1,9 +1,13 @@
 # Organisation et fonctionnement du site
 
-[Structure du site](/structure-du-site.md)
+1. [Structure du site](/structure-du-site.md)
 
-[Étapes préalables à la conception du site](/étapes-préalables-à-la-conception-du-site.md)
+2. [Étapes préalables à la conception du site](/étapes-préalables-à-la-conception-du-site.md)
 
-[Acteurs](/acteurs.md)
+3. [Acteurs](/acteurs.md)
 
-[Mentions légales](/mentions-légales.md)
+4. [Mentions légales](/mentions-légales.md)
+
+
+
+
