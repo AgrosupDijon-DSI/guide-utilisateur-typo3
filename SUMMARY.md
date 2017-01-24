@@ -1,6 +1,7 @@
-# Sommaire
+# Summary
 
 ## Préambule
+* [Introduction](README.md)
 * [Organisation et fonctionnement](organisation-et-fonctionnement-du-site.md)
 * [Recommandations éditoriales](recommandations-éditoriales.md)
     * [Du papier à l'écran](du-papier-à-lécran.md)
