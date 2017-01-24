@@ -3,10 +3,10 @@
 ## Préambule
 * [Introduction](README.md)
 * [Organisation et fonctionnement](organisation-et-fonctionnement-du-site.md)
-    * Structure du site
+    * [Structure du site](structure-du-site.md)
     * [Étapes préalables à la conception du site](étapes-préalables-à-la-conception-du-site.md)
-    * Acteurs
-    * Mentions légales
+    * [Acteurs](acteurs.md)
+    * [Mentions légales](mentions-légales.md)
 * [Recommandations éditoriales](recommandations-éditoriales.md)
     * [Du papier à l'écran](du-papier-à-lécran.md)
     * Composition d'un document à mettre en ligne
