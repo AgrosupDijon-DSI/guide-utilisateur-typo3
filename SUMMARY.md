@@ -9,7 +9,7 @@
     * [Mentions légales](mentions-légales.md)
 * [Recommandations éditoriales](recommandations-éditoriales.md)
     * [Du papier à l'écran](du-papier-à-lécran.md)
-    * Composition d'un document à mettre en ligne
+    * [Composition d'un document à mettre en ligne](composition-dun-document-à-mettre-en-ligne.md)
     * Rappel de quelques règles typographiques
     * Aspects juridiques
 
