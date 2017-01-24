@@ -1,5 +1,6 @@
 # Sommaire
 
+## Préambule
 * [Introduction](README.md)
 * [Organisation et fonctionnement](organisation_et_fonctionnement_du_site.md)
 * [Recommandations éditoriales](recommandations-éditoriales.md)
