@@ -1,4 +1,4 @@
-# Guide d'utilisation – version 2017 - maj
+# Guide d'utilisation – version 2017
 
 
 
