@@ -5,5 +5,5 @@
 * [First Chapter](chapter1.md)
 
 ## Test
-* Test
+* [Test](test.md)
 
