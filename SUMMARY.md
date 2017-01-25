@@ -19,7 +19,7 @@
 * [Charte graphique](charte-graphique.md)
 * [Gestion des pages](gestion-des-pages.md)
 * [Types de contenu](types-de-contenu.md)
-    * Titre
+    * [Titre](titre.md)
     * Texte & image
     * Lien
     * Tableau
