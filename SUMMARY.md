@@ -19,6 +19,20 @@
 * [Charte graphique](charte-graphique.md)
 * [Gestion des pages](gestion-des-pages.md)
 * [Types de contenu](types-de-contenu.md)
+    * Titre
+    * Texte & image
+    * Lien
+    * Tableau
+    * Enregistrement
+    * Référence
+    * Modèle de contenu
+    * Menu
+    * HTML
+    * Vidéo
+    * Média
+    * Cartographie
+    * Formulaire de contact
+    * Galerie photos
 * [Gestion des actualités](gestion-des-actualités.md)
 * Gestion des utilisateurs
 
