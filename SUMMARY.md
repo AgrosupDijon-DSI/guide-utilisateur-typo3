@@ -17,4 +17,8 @@
 * [Présentation de Typo3](présentation-de-typo3.md)
 * [S'identifier et se repérer dans le "Backend"](sidentifier-et-se-repérer-dans-le-backend.md)
 * [Charte graphique](charte-graphique.md)
+* [Gestion des pages](gestion-des-pages.md)
+* [Types de contenu](types-de-contenu.md)
+* [Gestion des actualités](gestion-des-actualités.md)
+* Gestion des utilisateurs
 
