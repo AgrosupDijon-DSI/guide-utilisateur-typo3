@@ -17,7 +17,7 @@
 ## Fiches d'utilisation de Typo3
 
 * [Présentation](présentation-de-typo3.md)
-* [Accéder à l'administration](sidentifier-et-se-repérer-dans-le-backend.md)
+* [Administration](sidentifier-et-se-repérer-dans-le-backend.md)
 * [Charte graphique](charte-graphique.md)
 * [Gestion des pages](gestion-des-pages.md)
 * [Types de contenu](types-de-contenu.md)
