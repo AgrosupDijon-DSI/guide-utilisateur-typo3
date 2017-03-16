@@ -1,8 +1,6 @@
 # Gestion des pages
 
-```
-test
-```
+
 
 
 
