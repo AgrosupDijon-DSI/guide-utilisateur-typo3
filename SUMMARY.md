@@ -16,7 +16,7 @@
 
 ## Fiches d'utilisation de TYPO3
 
-* [1. Présentation](présentation-de-typo3.md)
+* [Présentation](présentation-de-typo3.md)
 * [Administration](sidentifier-et-se-repérer-dans-le-backend.md)
   * [Accès et identification](sidentifier-et-se-repérer-dans-le-backend/acces-et-identification.md)
 * [Charte graphique](charte-graphique.md)
