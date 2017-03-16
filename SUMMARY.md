@@ -14,10 +14,11 @@
   * [Rappel de quelques règles typographiques](rappel-de-quelques-regles-typographiques.md)
   * Aspects juridiques
 
-## Fiches d'utilisation de Typo3
+## Fiches d'utilisation de TYPO3
 
-* [Présentation](présentation-de-typo3.md)
+* [1. Présentation](présentation-de-typo3.md)
 * [Administration](sidentifier-et-se-repérer-dans-le-backend.md)
+  * [Accès et identification](sidentifier-et-se-repérer-dans-le-backend/acces-et-identification.md)
 * [Charte graphique](charte-graphique.md)
 * [Gestion des pages](gestion-des-pages.md)
 * [Types de contenu](types-de-contenu.md)
