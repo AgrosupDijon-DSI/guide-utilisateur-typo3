@@ -17,8 +17,7 @@
 ## Fiches d'utilisation de TYPO3
 
 * [Présentation](présentation-de-typo3.md)
-* [Administration](sidentifier-et-se-repérer-dans-le-backend.md)
-  * [Accès et identification](sidentifier-et-se-repérer-dans-le-backend/acces-et-identification.md)
+  * [Accès et identification](présentation-de-typo3/acces-et-identification.md)
 * [Charte graphique](charte-graphique.md)
 * [Gestion des pages](gestion-des-pages.md)
 * [Types de contenu](types-de-contenu.md)
@@ -38,6 +37,6 @@
   * Galerie photos
 * [Gestion des actualités](gestion-des-actualités.md)
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
-* Gestion des fichiers
+* [Gestion des fichiers](gestion-des-fichiers.md)
 * Référencement et statistiques
 
