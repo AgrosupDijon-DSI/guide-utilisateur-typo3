@@ -1,4 +1,4 @@
-# Présentation
+# Premiers pas et présentation de TYPO3
 
 ![Logo Typo3](https://typo3.org/typo3conf/ext/t3org_template/i/typo3-logo.png)
 
