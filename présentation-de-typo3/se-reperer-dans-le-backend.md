@@ -22,9 +22,9 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 2. l'arborescence ;
 3. la vue détaillée.
 
-### Zone 1 Liste des modules
+### Zone 1 \| Liste des modules
 
-Sous forme de menu, cet éléments représente le point d'entré pour toutes les actions d'administration :
+Sous forme de menu, cet élément représente le point d'entré pour toutes les actions d'administration :
 
 * Page : permet de gérer les pages du site ainsi que leurs contenus ;
 * Voir : permet de prévisualiser une page depuis l'interface d'administration ;
@@ -32,6 +32,12 @@ Sous forme de menu, cet éléments représente le point d'entré pour toutes les
 * Gestion des Actualités : permet de gérer les actualités du site ;
 * Fichiers : permet gérer les fichiers stockés sur le site ;
 * TC TOOLS : Différents outils réservés à l'administrateur pour gérer les utilisateurs "Backend".
+
+### Zone 2 \| Arborescence
+
+Cet espace permet de voir et sélectionner, de façon hiérarchique, les dossiers et pages du site.
+
+### Zone 3 \| Vue détaillée
 
 
 
