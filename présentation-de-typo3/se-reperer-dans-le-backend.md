@@ -16,11 +16,7 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 
 ## Zones de gestion
 
-![](/assets/admin_TYPO3_1.png)Organisées en colonnes, ces zones sont liées entre elles par ordre hiérarchique :
-
-1. la liste des modules ;
-2. l'arborescence ;
-3. la vue détaillée.
+![](/assets/admin_TYPO3_1.png)
 
 ### Zone 1 \| Liste des modules
 
@@ -35,9 +31,9 @@ Sous forme de menu, cet élément représente le point d'entré pour toutes les 
 
 ### Zone 2 \| Arborescence
 
-Cet espace permet de voir et sélectionner, de façon hiérarchique, les dossiers et pages du site.
+Cet espace permet de créer ou sélectionner, de façon hiérarchique, les dossiers et pages du site.
 
 ### Zone 3 \| Vue détaillée
 
-
+A partir d'une page ou dossier sélectionner, cette zone affiche les éléments de contenu ou autres liées en fonction du module sélectionné dans la zone 1.
 
