@@ -11,13 +11,17 @@ Le formulaire d'édition permet de modifier divers informations et de configurer
 
 ![](/assets/admin_TYPO3_edit_account.png)
 
+> ![](/assets/save.png)
+>
+> Note : pour que les modifications soient sauvegardées, cliquer sur le bouton "Enregistrer" en haut du formulaire.
+
 ### Données personnelles
 
 Cet onglet permet d'éditer les informations liées à votre compte et d'inséré une adresse email afin de recevoir les notifications administrateur du "Backend".
 
 ### Mot de passe
 
-Permet de modifier le mot de passe du compte. 
+Permet de modifier le mot de passe du compte.
 
 > Note : Le mot de passe initial est demandé pour enregistrer un nouveau.
 
