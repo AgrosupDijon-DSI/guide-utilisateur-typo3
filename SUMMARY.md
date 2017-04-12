@@ -44,6 +44,8 @@
   * Éditer une actualité
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
 * [Gestion des fichiers](gestion-des-fichiers.md)
+  * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
+  * Ajouter un fichier
 * [Charte graphique](charte-graphique.md)
 * Référencement et statistiques
 
