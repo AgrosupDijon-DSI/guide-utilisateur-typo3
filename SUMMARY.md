@@ -14,12 +14,16 @@
   * [Rappel de quelques règles typographiques](rappel-de-quelques-regles-typographiques.md)
   * Aspects juridiques
 
-## Fiches d'utilisation de Typo3
+## Fiches d'utilisation de TYPO3
 
-* [Présentation](présentation-de-typo3.md)
-* [Administration](sidentifier-et-se-repérer-dans-le-backend.md)
-* [Charte graphique](charte-graphique.md)
+* [Premiers pas](présentation-de-typo3.md)
+  * [Accès et identification](présentation-de-typo3/acces-et-identification.md)
+  * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
+  * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Gestion des pages](gestion-des-pages.md)
+  * Créer une page
+  * Éditer une page
+  * Visualiser une page
 * [Types de contenu](types-de-contenu.md)
   * [Titre](titre.md)
   * [Texte & image](texte-and-image.md)
@@ -36,7 +40,12 @@
   * Formulaire de contact
   * Galerie photos
 * [Gestion des actualités](gestion-des-actualités.md)
+  * Créer une actualité
+  * Éditer une actualité
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
-* Gestion des fichiers
+* [Gestion des fichiers](gestion-des-fichiers.md)
+  * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
+  * Ajouter un fichier
+* [Charte graphique](charte-graphique.md)
 * Référencement et statistiques
 
