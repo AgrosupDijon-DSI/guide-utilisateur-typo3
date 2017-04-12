@@ -21,6 +21,9 @@
   * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Gestion des pages](gestion-des-pages.md)
+  * Créer une page
+  * Éditer une page
+  * Visualiser une page
 * [Types de contenu](types-de-contenu.md)
   * [Titre](titre.md)
   * [Texte & image](texte-and-image.md)
@@ -37,6 +40,8 @@
   * Formulaire de contact
   * Galerie photos
 * [Gestion des actualités](gestion-des-actualités.md)
+  * Créer une actualité
+  * Éditer une actualité
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
 * [Gestion des fichiers](gestion-des-fichiers.md)
 * [Charte graphique](charte-graphique.md)
