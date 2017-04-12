@@ -19,8 +19,7 @@
 * [Premiers pas](présentation-de-typo3.md)
   * [Accès et identification](présentation-de-typo3/acces-et-identification.md)
   * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
-  * [Gérer mon compte](présentation-de-typo3/gerer-mon-compte.md)
-* [Charte graphique](charte-graphique.md)
+  * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Gestion des pages](gestion-des-pages.md)
 * [Types de contenu](types-de-contenu.md)
   * [Titre](titre.md)
@@ -40,5 +39,6 @@
 * [Gestion des actualités](gestion-des-actualités.md)
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
 * [Gestion des fichiers](gestion-des-fichiers.md)
+* [Charte graphique](charte-graphique.md)
 * Référencement et statistiques
 
