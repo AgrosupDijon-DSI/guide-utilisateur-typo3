@@ -10,7 +10,15 @@ Pour ajouter du contenu dans une page :
 
 ![](/assets/add_conten_btn.png)
 
+Une liste des principaux types de contenu est alors proposée :
 
+![](/assets/add_content_list.png)
+
+Cliquer sur l’élément de contenu correspondant au besoin.
+
+> **Remarque**
+>
+> Les types d’éléments de contenu sont détaillées ici : [Types de contenu](/types-de-contenu/types-de-contenu.md)
 
 
 

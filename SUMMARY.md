@@ -27,7 +27,7 @@
 * [Gestion du contenu](types-de-contenu.md)
   * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
   * Editer élément de contenu
-  * Types de contenu
+  * [Types de contenu](types-de-contenu/types-de-contenu.md)
 * [Gestion des actualités](gestion-des-actualités.md)
   * Créer une actualité
   * Éditer une actualité
