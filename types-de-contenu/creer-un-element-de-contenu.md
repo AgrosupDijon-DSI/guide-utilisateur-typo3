@@ -10,15 +10,21 @@ Pour ajouter du contenu dans une page :
 
 ![](/assets/add_conten_btn.png)
 
-Une liste des principaux types de contenu est alors proposée :
+Une liste des principaux types de contenu est alors proposée, organisée par onglet en fonction de leurs spécificités :
 
 ![](/assets/add_content_list.png)
 
 Cliquer sur l’élément de contenu correspondant au besoin.
 
-> **Remarque**
->
-> Les types d’éléments de contenu sont détaillées ici : [Types de contenu](/types-de-contenu/types-de-contenu.md)
+> **Note : **Les types d’éléments de contenu sont détaillées ici : [Types de contenu](/types-de-contenu/types-de-contenu.md)
+
+![](/assets/add_content_save.png)
+
+Une fois saisie, le contenu doit être sauvegardé en cliquant sur le bouton **Enregistrer** :
+
+![](/assets/add_content_save_btn.png)
+
+> **Note :** La flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.
 
 
 

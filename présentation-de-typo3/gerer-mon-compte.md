@@ -13,7 +13,7 @@ Le formulaire d'édition permet de modifier divers informations et de configurer
 
 > ![](/assets/save.png)
 >
-> Note : pour que les modifications soient sauvegardées, cliquer sur le bouton "Enregistrer" en haut du formulaire.
+> **Note :** pour que les modifications soient sauvegardées, cliquer sur le bouton "Enregistrer" en haut du formulaire.
 
 ### Données personnelles
 
@@ -23,7 +23,7 @@ Cet onglet permet d'éditer les informations liées à votre compte et d'insér�
 
 Permet de modifier le mot de passe du compte.
 
-> Note : Le mot de passe initial est demandé pour enregistrer un nouveau.
+> **Note :** Le mot de passe initial est demandé pour enregistrer un nouveau.
 
 ### Démarrage
 
