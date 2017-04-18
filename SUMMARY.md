@@ -21,24 +21,13 @@
   * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Gestion des pages](gestion-des-pages.md)
-  * Créer une page
-  * Éditer une page
+  * [Créer une page](gestion-des-pages/creer-une-page.md)
+  * [Éditer une page](gestion-des-pages/editer-une-page.md)
   * Visualiser une page
-* [Types de contenu](types-de-contenu.md)
-  * [Titre](titre.md)
-  * [Texte & image](texte-and-image.md)
-  * Lien
-  * Tableau
-  * Enregistrement
-  * Référence
-  * Modèle de contenu
-  * Menu
-  * HTML
-  * [Vidéo](video.md)
-  * Média
-  * Cartographie
-  * Formulaire de contact
-  * Galerie photos
+* [Gestion du contenu](types-de-contenu.md)
+  * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
+  * Editer élément de contenu
+  * Types de contenu
 * [Gestion des actualités](gestion-des-actualités.md)
   * Créer une actualité
   * Éditer une actualité
