@@ -23,7 +23,7 @@
 * [Gestion des pages](gestion-des-pages.md)
   * [Créer une page](gestion-des-pages/creer-une-page.md)
   * [Éditer une page](gestion-des-pages/editer-une-page.md)
-  * Visualiser une page
+  * [Visualiser une page](gestion-des-pages/visualiser-une-page.md)
 * [Gestion du contenu](types-de-contenu.md)
   * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
   * [Editer élément de contenu](types-de-contenu/editer-element-de-contenu.md)
