@@ -1,6 +1,6 @@
 # Élément de contenu : Titre
 
-Sélectionner l'élément :
+A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
 ![](/assets/add_content_titre.png)
 
