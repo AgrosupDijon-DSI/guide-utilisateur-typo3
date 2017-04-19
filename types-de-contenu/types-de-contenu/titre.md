@@ -11,9 +11,7 @@ Le principal intérêt du contenu de type **Titre **est d'être associé à un c
 
 **Titre :** titre du contenu ;
 
-**Type :** associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(**H1** = Titre de
-
-niveau 1, **H2** = Titre de niveau 2...\). Le type **Caché** masque l'en-tête pour les internautes.
+**Type :** associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(H1 = Titre de niveau 1, H2 = Titre de niveau 2...\). Le type **Caché** masque l'en-tête pour les internautes.
 
 **Alignement :** affiche le titre à gauche, droite ou au centre ;
 
