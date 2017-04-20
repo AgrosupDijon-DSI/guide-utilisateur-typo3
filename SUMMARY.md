@@ -35,6 +35,9 @@
   * [Créer une actualité](gestion-des-actualités/creer-une-actualite.md)
   * [Éditer une actualité](gestion-des-actualités/editer-une-actualite.md)
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
+  * Types de profil
+  * Créer un rédacteur
+  * Modifier un rédacteur
 * [Gestion des fichiers](gestion-des-fichiers.md)
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
   * Ajouter un fichier
