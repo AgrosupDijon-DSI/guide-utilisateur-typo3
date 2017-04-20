@@ -1,6 +1,8 @@
 # Se repérer dans le "Backend"
 
-Après identification, TYPO3 propose d'accéder directement aux différents espaces suivants :
+Après identification, TYPO3 propose d'accéder directement à différents espaces.
+
+---
 
 ## Barre d'outils
 
@@ -13,6 +15,8 @@ Cette barre, affichée en entête de manière permanente, permet \(de gauche à 
 * éditer son compte utilisateur ;
 * se déconnecter et fermer sa session ;
 * effectuer une recherche.
+
+---
 
 ## Zones de gestion
 

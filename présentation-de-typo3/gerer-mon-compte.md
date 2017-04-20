@@ -27,5 +27,5 @@ Permet de modifier le mot de passe du compte.
 
 ### Démarrage
 
-A la connexion au "Backend", le mode "Page" s'affiche par défaut. Cet onglet permet de modifier ce comportement et sélectionner un autre module comme "Gestion des Actualités" par exemple.
+A la connexion au "Backend", le mode **Page** s'affiche par défaut. Cet onglet permet de modifier ce comportement et sélectionner un autre module comme **Gestion des Actualités** par exemple.
 
