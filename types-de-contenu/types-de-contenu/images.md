@@ -28,9 +28,23 @@ Un onglet **Images** est disponible, il permet d'ajouter et configurer des image
 
 ![](/assets/add_content_btn_add1.png)
 
-Si l'image est donc déjà présente dans le dossier des ressources \(voir [Gestion des fichiers](/gestion-des-fichiers.md)\), cliquer sur le bouton **Ajouter une image**.
+Si l'image est donc déjà présente dans le dossier des ressources, cliquer sur le bouton **Ajouter une image**.
 
 Une nouvelle fenêtre s'ouvre, articulée en deux colonnes, elle permet d'effectuer une sélection d'une ou plusieurs images.
 
+![](/assets/add_content_file1.png)
 
+La colonne de gauche présente l'arborescence du dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\), sélectionner le répertoire contenant la ou les images à insérer.
+
+![](/assets/add_content_file2.png)
+
+La colonne de droite s'actualise avec la liste des fichiers images présent dans le répertoire choisi. 
+
+![](/assets/btn_selection_off.png) Image non sélectionnée
+
+![](/assets/btn_selection_on.png) Image sélectionnée
+
+![](/assets/btn_import.png) Importer la sélection
+
+Sélectionner les images désirées et cliquer sur** Importer la sélection**.
 
