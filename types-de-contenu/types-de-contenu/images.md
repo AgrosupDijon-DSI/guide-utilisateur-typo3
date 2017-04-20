@@ -4,29 +4,33 @@ A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu
 
 ![](/assets/add_content_images.png)
 
-Il est également possible de combiner un élément **Images** avec un élément **Texte**.
+Il est également possible de combiner un élément **Images** avec un élément **Texte**, sélectionner :
 
-![](/assets/add_content_titre2.png)
+![](/assets/add_content_texte_images.png)
 
-**Titre :** titre du contenu ;
-
-**Type :** associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(H1 = Titre de niveau 1, H2 = Titre de niveau 2...\). Le type **Caché** masque l'en-tête pour les internautes.
-
-**Alignement :** affiche le titre à gauche, droite ou au centre ;
-
-**Lien : **le titre peut être un lien et pointer vers une page interne du site ou vers un autre site.
-
-> **Renseigner le titre est un "plus" pour la structuration future de la page :**
+> **Note : **Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](/types-de-contenu/types-de-contenu/titre.md).
 >
-> * c’est l’intitulé du paragraphe ou de la section ;
->
-> * il peut également n'être qu'une indication de contenu  
->    \(sommaire, note de service\) utile pour faire des liens à  
->    l'intérieur de la page mais qui n'aurait aucun intérêt à être  
->    affiché pour l'internaute ; auquel cas, il est possible de lui  
->    affecter le type "Caché" ;
->
-> * le titre de l’élément de contenu permet également de repérer plus facilement les contenus dans l’interface d’administration TYPO3.
+> Pour un contenu de type **Texte & images**, se référer à la fiche dédié à l'élément [Texte](/types-de-contenu/types-de-contenu/texte.md).
+
+![](/assets/add_content_images_ong.png)
+
+Un onglet **Images** est disponible, il permet d'ajouter et configurer des images.
+
+**Colonnes :** ce champ définit le nombre d'images affichées par ligne :
+
+| 2 images sur 1 colonne | 3 images sur 2 colonnes | 5 images sur 3 colonnes |
+| :---: | :---: | :---: |
+| ![](/assets/add_content_img_ex3.png) | ![](/assets/add_content_img_ex1.png) | ![](/assets/add_content_img_ex2.png) |
+
+**Images : **permet d'ajouter une ou plusieurs images. Deux méthodes en fonction du cas de figure :
+
+* L'image a déjà été utilisée sur le site :
+
+![](/assets/add_content_btn_add1.png)
+
+Si l'image est donc déjà présente dans le dossier des ressources \(voir [Gestion des fichiers](/gestion-des-fichiers.md)\), cliquer sur le bouton **Ajouter une image**.
+
+Une nouvelle fenêtre s'ouvre, articulée en deux colonnes, elle permet d'effectuer une sélection d'une ou plusieurs images.
 
 
 
