@@ -31,6 +31,8 @@
     * [Titre](types-de-contenu/types-de-contenu/titre.md)
     * [Texte](types-de-contenu/types-de-contenu/texte.md)
     * [Images](types-de-contenu/types-de-contenu/images.md)
+    * [Média](types-de-contenu/types-de-contenu/media.md)
+    * Audio
 * [Gestion des actualités](gestion-des-actualités.md)
   * [Créer une actualité](gestion-des-actualités/creer-une-actualite.md)
   * [Éditer une actualité](gestion-des-actualités/editer-une-actualite.md)
