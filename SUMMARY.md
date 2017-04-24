@@ -21,31 +21,28 @@
   * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Gestion des pages](gestion-des-pages.md)
-  * Créer une page
-  * Éditer une page
-  * Visualiser une page
-* [Types de contenu](types-de-contenu.md)
-  * [Titre](titre.md)
-  * [Texte & image](texte-and-image.md)
-  * Lien
-  * Tableau
-  * Enregistrement
-  * Référence
-  * Modèle de contenu
-  * Menu
-  * HTML
-  * [Vidéo](video.md)
-  * Média
-  * Cartographie
-  * Formulaire de contact
-  * Galerie photos
+  * [Créer une page](gestion-des-pages/creer-une-page.md)
+  * [Éditer un page](gestion-des-pages/editer-un-page.md)
+* [Gestion du contenu](types-de-contenu.md)
+  * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
+  * [Editer élément de contenu](types-de-contenu/editer-element-de-contenu.md)
+  * [Types de contenu](types-de-contenu/types-de-contenu.md)
+    * [Titre](types-de-contenu/types-de-contenu/titre.md)
+    * [Texte](types-de-contenu/types-de-contenu/texte.md)
+    * [Image](types-de-contenu/types-de-contenu/images.md)
+    * [Vidéo](types-de-contenu/types-de-contenu/media.md)
+    * [Audio](types-de-contenu/types-de-contenu/audio.md)
 * [Gestion des actualités](gestion-des-actualités.md)
-  * Créer une actualité
-  * Éditer une actualité
+  * [Créer une actualité](gestion-des-actualités/creer-une-actualite.md)
+  * [Éditer une actualité](gestion-des-actualités/editer-une-actualite.md)
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
+  * [Types de profil](gestion-des-utilisateurs/types-de-profil.md)
+  * [Créer un utilisateur](gestion-des-utilisateurs/creer-un-utilisateur.md)
 * [Gestion des fichiers](gestion-des-fichiers.md)
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
-  * Ajouter un fichier
+  * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
 * [Charte graphique](charte-graphique.md)
-* Référencement et statistiques
+* [Spécificités](specificites.md)
+  * Bandeau
+  * Google Analytics
 
