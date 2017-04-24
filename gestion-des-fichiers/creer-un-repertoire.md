@@ -4,7 +4,7 @@ Pour ajouter une nouvelle une page :
 
 * Sélectionner le mode **Fichiers **dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md).
 * Cliquer sur le répertoire parent dans laquelle doit être inséré le nouveau dans l'[Arborescence](/présentation-de-typo3/se-reperer-dans-le-backend.md) ;
-* Cliquer sur le bouton Nouveau dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md) :
+* Cliquer sur le bouton **Nouveau **dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md) :
 
   ![](/assets/btn_add_new.png)
 
