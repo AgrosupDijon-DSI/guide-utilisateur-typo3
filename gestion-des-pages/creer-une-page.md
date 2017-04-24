@@ -37,7 +37,13 @@ Cliquer sur le bouton **Modifier les propriétés de la page**.
 
 ![](/assets/add_page_edit_1.png)
 
+Entrer un **Titre de la page.**
 
+![](/assets/add_page_acces.png)
 
-Note : raccourcis clic droit sur page...
+Dans l'onglet **Accès**, décocher la case **Désactivé **du champ **Page** pour qu'elle soit accessible au internaute.
+
+![](/assets/save.png)
+
+Cliquer sur **Enregistrer **pour sauvegarder les modifications.
 

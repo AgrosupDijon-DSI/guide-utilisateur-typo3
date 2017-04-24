@@ -22,8 +22,7 @@
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Gestion des pages](gestion-des-pages.md)
   * [Créer une page](gestion-des-pages/creer-une-page.md)
-  * [Éditer une page](gestion-des-pages/editer-une-page.md)
-  * [Visualiser une page](gestion-des-pages/visualiser-une-page.md)
+  * [Éditer un page](gestion-des-pages/editer-un-page.md)
 * [Gestion du contenu](types-de-contenu.md)
   * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
   * [Editer élément de contenu](types-de-contenu/editer-element-de-contenu.md)
@@ -39,11 +38,11 @@
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
   * [Types de profil](gestion-des-utilisateurs/types-de-profil.md)
   * [Créer un utilisateur](gestion-des-utilisateurs/creer-un-utilisateur.md)
-  * [Créer un groupe](gestion-des-utilisateurs/creer-un-groupe.md)
-  * Créer un point de montage
 * [Gestion des fichiers](gestion-des-fichiers.md)
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
   * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
 * [Charte graphique](charte-graphique.md)
-* [Référencement et statistiques](referencement-et-statistiques.md)
+* [Spécificités](specificites.md)
+  * Bandeau
+  * Google Analytics
 
