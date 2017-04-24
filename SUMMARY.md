@@ -30,19 +30,19 @@
   * [Types de contenu](types-de-contenu/types-de-contenu.md)
     * [Titre](types-de-contenu/types-de-contenu/titre.md)
     * [Texte](types-de-contenu/types-de-contenu/texte.md)
-    * [Images](types-de-contenu/types-de-contenu/images.md)
-    * [Média](types-de-contenu/types-de-contenu/media.md)
+    * [Image](types-de-contenu/types-de-contenu/images.md)
+    * [Vidéo](types-de-contenu/types-de-contenu/media.md)
     * [Audio](types-de-contenu/types-de-contenu/audio.md)
 * [Gestion des actualités](gestion-des-actualités.md)
   * [Créer une actualité](gestion-des-actualités/creer-une-actualite.md)
   * [Éditer une actualité](gestion-des-actualités/editer-une-actualite.md)
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
   * [Types de profil](gestion-des-utilisateurs/types-de-profil.md)
-  * Créer un rédacteur
-  * Modifier un rédacteur
+  * [Créer un rédacteur](gestion-des-utilisateurs/creer-un-redacteur.md)
+  * [Modifier un rédacteur](gestion-des-utilisateurs/modifier-un-redacteur.md)
 * [Gestion des fichiers](gestion-des-fichiers.md)
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
-  * Ajouter un fichier
+  * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
 * [Charte graphique](charte-graphique.md)
 * [Référencement et statistiques](referencement-et-statistiques.md)
 

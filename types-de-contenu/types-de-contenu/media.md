@@ -1,4 +1,4 @@
-# Élément de contenu : Média
+# Élément de contenu : Vidéo
 
 > **Note : **Ce contenu permet d'ajouter des vidéos provenant des services Youtube et Vimeo uniquement.
 
@@ -60,7 +60,7 @@ Dans le champ **Paste media url here**, entrer l'adresse de la vidéo Youtube ou
 >
 > Youtube : [https://www.youtube.com/watch?v=CJjxCcr81Jw](https://www.youtube.com/watch?v=CJjxCcr81Jw)
 >
-> Vimeo : https://vimeo.com/8622726
+> Vimeo : [https://vimeo.com/8622726](https://vimeo.com/8622726)
 >
 > _Les adresses Youtube et Vimeo peuvent être copier depuis la barre d'adresse du navigateur._
 
@@ -85,6 +85,4 @@ Cliquer sur **Titre **pour éditer les informations relatives à l'image ou l'é
 **Description : **ajouter un texte associé à la vidéo ;
 
 **Autoplay :** lit la vidéo automatiquement à l'affichage de la page.
-
-
 
