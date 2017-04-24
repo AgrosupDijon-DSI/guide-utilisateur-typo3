@@ -38,8 +38,9 @@
   * [Éditer une actualité](gestion-des-actualités/editer-une-actualite.md)
 * [Gestion des utilisateurs](gestion-des-utilisateurs.md)
   * [Types de profil](gestion-des-utilisateurs/types-de-profil.md)
-  * [Créer un rédacteur](gestion-des-utilisateurs/creer-un-redacteur.md)
-  * [Modifier un rédacteur](gestion-des-utilisateurs/modifier-un-redacteur.md)
+  * [Créer un utilisateur](gestion-des-utilisateurs/creer-un-utilisateur.md)
+  * [Créer un groupe](gestion-des-utilisateurs/creer-un-groupe.md)
+  * Créer un point de montage
 * [Gestion des fichiers](gestion-des-fichiers.md)
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
   * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
