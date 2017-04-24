@@ -10,11 +10,11 @@ Pour ajouter une nouvelle une page :
 
 ![](/assets/add_file_rep.png)
 
-Saisir le nom du répertoire et de cliquer sur **Créer des dossiers** pour valider la création.
+Saisir le nom du répertoire et de cliquer sur **Créer des dossiers** pour valider la création.
 
-Réitérer l'opération autant que de besoin ou sélectionner **Nombre de dossiers** pour en ajouter plusieurs d’un seul coup.
+Réitérer l'opération autant que de besoin ou sélectionner **Nombre de dossiers** pour en ajouter plusieurs d’un seul coup.
 
-> **Note :** Eviter de mettre des accents ou des espaces dans les noms des répertoires : les accents seront automatiquement supprimés \(le "é" deviendra "e"\) et les espaces seront remplacés par un "tiret-bas" \("\_"\).
+> **Note :** Eviter de mettre des accents ou des espaces dans les noms des répertoires : les accents seront automatiquement supprimés \(le "é" deviendra "e"\) et les espaces seront remplacés par un "tiret-bas" \("\_"\).
 
 
 
