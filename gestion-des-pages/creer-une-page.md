@@ -43,7 +43,7 @@ Entrer un **Titre de la page.**
 
 Dans l'onglet **Accès**, décocher la case **Désactivé **du champ **Page** pour qu'elle soit accessible au internaute.
 
-![](/assets/save.png)
+![](/assets/btn_page_save.png)
 
 Cliquer sur **Enregistrer **pour sauvegarder les modifications.
 

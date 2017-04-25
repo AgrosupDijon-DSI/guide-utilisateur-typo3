@@ -22,9 +22,11 @@ Chaque type de contenu possède ses spécificités propres mais comporte égalem
 
 Une fois les champs saisies, le contenu doit être sauvegardé en cliquant sur le bouton **Enregistrer** :
 
-![](/assets/add_content_save_btn.png)
+![](/assets/btn_page_save.png)
 
-> **Note :** La flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.
+> **Note :** 
+>
+> ![](/assets/btn_page_other.png) la flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.
 
 
 
