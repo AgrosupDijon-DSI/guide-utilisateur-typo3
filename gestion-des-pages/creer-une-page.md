@@ -3,9 +3,7 @@
 Pour ajouter une nouvelle une page :
 
 * Sélectionner le mode **Page** dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md).
-* Cliquer sur le bouton d'ajout d'une nouvelle page :
-
-  ![](/assets/btn_add_page.png)
+* Cliquer sur le bouton ![](/assets/btn_add_page.png) d'ajout d'une nouvelle page.
 
 ![](/assets/add_page.png)
 
