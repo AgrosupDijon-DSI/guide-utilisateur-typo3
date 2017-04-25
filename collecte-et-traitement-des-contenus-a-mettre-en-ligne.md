@@ -65,8 +65,7 @@ Il sera porté une attention particulière à ce que ces documents soient propos
 
 Chaque fois qu'un fichier sera proposé en téléchargement, une phrase indiquera clairement le format et le poids du fichier ainsi que le logiciel qui permet de le lire \(exemple : fichier PDF \(36Ko\) lisible avec le logiciel Acrobat Reader\). Un lien sera proposé en complément pour télécharger une visionneuse gratuite permettant de lire le fichier.
 
-> **Remarque spécifique aux documents PDF  
-> **
+> **Remarque spécifique aux documents PDF  **
 >
 > Le recours aux documents PDF proposés en téléchargement est une pratique de plus en plus répandue pour une mise en ligne rapide de documents souvent initialement prévus pour une diffusion papier.  
 > Le format PDF présente les avantages d'être peu coûteux à produire et d'offrir de bons résultats à l'impression \(hormis s'il s'agit d'un document "scanné" et converti en PDF\).  

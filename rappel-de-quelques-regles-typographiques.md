@@ -20,8 +20,7 @@ Une **ponctuation simple** \(exemple : "point", "virgule", "points de suspension
 
 _Règles particulières :_
 
-* _Les **parenthèses **et **guillemets **"droits" \(utilisés dans le web à la place des guillemets dits "français" ou_
-  _ "anglais"\) sont collés à l'expression qu'ils encadrent._
+* _Les **parenthèses **et **guillemets **"droits" \(utilisés dans le web à la place des guillemets dits "français" ou "anglais"\) sont collés à l'expression qu'ils encadrent._
 * _Les **points de suspension** sont considérés comme une ponctuation simple._
 * _L'**apostrophe** et le **trait d'union** sont collés aux caractères qu'ils relient._
 
