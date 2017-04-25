@@ -12,7 +12,8 @@
   * [Du papier à l'écran](du-papier-à-lécran.md)
   * [Composition d'un document à mettre en ligne](composition-dun-document-à-mettre-en-ligne.md)
   * [Rappel de quelques règles typographiques](rappel-de-quelques-regles-typographiques.md)
-  * Aspects juridiques
+  * [Collecte et traitement des contenus à mettre en ligne](collecte-et-traitement-des-contenus-a-mettre-en-ligne.md)
+  * [Aspects juridiques](aspects-juridiques.md)
 
 ## Fiches d'utilisation de TYPO3
 
