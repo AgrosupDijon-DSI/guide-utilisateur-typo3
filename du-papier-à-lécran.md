@@ -125,13 +125,13 @@ Pour mettre en valeur une information, il conviendra de **limiter l'usage** :
 * des styles **italique **\(difficilement lisible à l'écran et utilisable seulement pour de courtes citations\) et souligné \(réservé uniquement pour les liens hypertextes\),
 * des **lettres capitales** \(majuscules\) ; en effet, les synthétiseurs vocaux utilisés par exemple par les personnes malvoyantes ne font pas la différence entre un mot en lettres capitales et un sigle qui seront, l'un comme l'autre, lus lettre après lettre.
 
-**Informations complémentaires :**
-
-* [http://blog.60questions.net/](http://blog.60questions.net/) : Le blog qui plaide pour un Web meilleur
-* [http://www.cyberie.qc.ca/jpc/ecrire.html](http://www.cyberie.qc.ca/jpc/ecrire.html) : Ecrire pour le web
-* [http://www.ecrirepourleweb.com/](http://www.ecrirepourleweb.com/) : Ecrire pour le web
-* [http://www.redaction.be/](http://www.redaction.be/) : Le site des spécialistes de l'information en ligne
-* [http://www.references.modernisation.gouv.fr/charte-ergonomique](http://www.references.modernisation.gouv.fr/charte-ergonomique) : Charte ergonomique \(sites internet publics\)
+> **Informations complémentaires :**
+>
+> * [http://blog.60questions.net/](http://blog.60questions.net/) : Le blog qui plaide pour un Web meilleur
+> * [http://www.cyberie.qc.ca/jpc/ecrire.html](http://www.cyberie.qc.ca/jpc/ecrire.html) : Ecrire pour le web
+> * [http://www.ecrirepourleweb.com/](http://www.ecrirepourleweb.com/) : Ecrire pour le web
+> * [http://www.redaction.be/](http://www.redaction.be/) : Le site des spécialistes de l'information en ligne
+> * [http://www.references.modernisation.gouv.fr/charte-ergonomique](http://www.references.modernisation.gouv.fr/charte-ergonomique) : Charte ergonomique \(sites internet publics\)
 
 
 
