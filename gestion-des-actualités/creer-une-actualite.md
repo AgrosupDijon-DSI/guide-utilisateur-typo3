@@ -7,11 +7,5 @@ Pour ajouter une nouvelle actualité :
 
 ---
 
-En haut de la vue détaillée, différentes actions sont proposées :
-
-![](/assets/btn_page_cancel.png.png) annuler les modifications et retourner à la vue générale des actualités ;
-
-![](/assets/btn_page_save.png) enregistrer les modifications ;
-
-![](/assets/btn_page_remove.png) supprimer l'actualité.
+Pour éditer l'actualité, voir [Éditer une actualité](/gestion-des-actualités/editer-une-actualite.md).
 
