@@ -4,7 +4,7 @@ Pour ajouter du contenu dans une page :
 
 * Sélectionner le mode **Page** dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md) ;
 * Cliquer sur la page à modifier dans l'[Arborescence](/présentation-de-typo3/se-reperer-dans-le-backend.md);
-* Cliquer sur l’icône ![](/assets/add_page_edit.png) **Modifier les propriétés de la page **\(voir ci-dessous\) dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md).
+* Cliquer sur l’icône ![](/assets/add_page_edit.png) **Modifier les propriétés de la page **dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md).
 
 ---
 
@@ -57,6 +57,4 @@ En haut de la vue détaillée, différentes actions sont proposées :
 #### Ressources
 
 **Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow\) si plusieurs images. Voir la partie [Gestion des fichiers](/gestion-des-fichiers.md) pour ajouter des images.
-
-
 
