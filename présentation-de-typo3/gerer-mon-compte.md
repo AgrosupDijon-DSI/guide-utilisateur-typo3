@@ -1,4 +1,4 @@
-# Gérer mon compte
+## Gérer mon compte
 
 ![](/assets/admin_TYPO3_account.png)
 

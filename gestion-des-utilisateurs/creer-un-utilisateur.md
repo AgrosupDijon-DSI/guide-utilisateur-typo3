@@ -3,9 +3,15 @@
 Pour ajouter du contenu dans une page :
 
 * Sélectionner le mode **User Admin** dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md) ;
-* Cliquer sur l’icône **Create a new user** :
+* Cliquer sur l’icône ![](/assets/add_user_btn.png)
 
-![](/assets/add_user_btn.png)
+---
+
+![](/assets/btn_page_cancel.png.png) annuler les modifications et retourner à la vue générale des utilisateurs ;
+
+![](/assets/btn_page_save.png) enregistrer les modifications ;
+
+---
 
 ![](/assets/add_user_detail.png)
 
