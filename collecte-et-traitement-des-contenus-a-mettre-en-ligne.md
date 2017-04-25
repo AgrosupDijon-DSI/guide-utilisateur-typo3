@@ -16,5 +16,23 @@ Les indications quant au positionnement du nouveau contenu seront données aussi
 
 ### Règles spécifiques par type de document
 
+#### Documents rédigés
+
+Pour les documents rédigés, les formats à privilégier sont les **formats de type texte** \(doc, txt, rtf, odt\).
+
+Le recours aux documents mis en forme à l'aide de logiciels de PAO \(type Xpress ou InDesign\) sera exceptionnel et devra être justifié.
+
+Lorsque le document doit donner lieu à la fabrication d'un fichier PDF, il est conseillé de répéter les indications "titre / auteur / date de création" en bas de page afin qu’elles soient indiquées sur toutes les pages du document \(en cas d’impression partielle\).
+
+Les fichiers livrés aux auteurs doivent être exempts de fautes d'orthographe et de syntaxe et correctement mis en forme \(structuration en paragraphes avec préparation d'un sommaire pour les dossiers volumineux, cohérence dans l'organisation des données de tableaux, etc.\).
+
+Les polices de caractères du site \(ainsi que leurs tailles\) sont imposées par la charte graphique et gérées automatiquement \(feuilles de style\), ceci afin de garantir l'homogénéité et la cohérence graphique, notamment lorsque plusieurs rédacteurs travaillent sur les contenus du site. Les rédacteurs n’ont donc pas à se soucier du choix de la police lors de la mise en page de leurs contenus.
+
+De même, lors de la préparation des fichiers, préférer le style **gras **pour mettre en valeur une information plutôt que l'**italique** peu lisible sur le web \(à réserver pour de courtes citations de 2 lignes maximum\) ou bien le **souligné**, habituellement consacré aux liens hypertextes. 
+
+Tout lien à effectuer sera signalé simplement en soulignant le mot \(ou l'expression\) sur lequel l'internaute cliquera et juste derrière le le mot souligné \(ou l'expression\), l'adresse vers laquelle le lien pointe, sera mise entre parenthèses.
+
+#### Tableaux
+
 
 
