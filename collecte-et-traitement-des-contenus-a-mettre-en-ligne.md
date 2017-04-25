@@ -34,7 +34,7 @@ Tout lien à effectuer sera signalé simplement en soulignant le mot \(ou l'expr
 
 #### Tableaux
 
-**Le recours aux tableaux doit être réservé aux données chiffrées** \(exemple : évolution des effectifs d'apprenants par filière entre 2005 et 2008\) et non pas être une astuce de mise en page.
+**Le recours aux tableaux doit être réservé aux données chiffrées** \(exemple : évolution des effectifs d'apprenants par filière entre 2005 et 2008\) et non pas être une astuce de mise en page.
 
 Chaque tableau devra être accompagné d'un titre explicite et éventuellement d'une légende complémentaire.
 
@@ -47,15 +47,33 @@ Toutes les illustrations \(images, photos, graphiques\) devront être **accompag
 
 Deux hypothèses d'affichage sont possibles :
 
-* **illustration habillée par le texte** : l'image ne devra pas dépasser une largeur équivalente à la moitié de la   largeur de la page afin que l'équilibre des deux colonnes image/texte soit respecté,
+* **illustration habillée par le texte** : l'image ne devra pas dépasser une largeur équivalente à la moitié de la largeur de la page afin que l'équilibre des deux colonnes image/texte soit respecté,
 * **illustration sur toute la largeur de la page** : la largeur de l'image pourra utiliser toute la largeur de la page.
 
 Les illustrations devront être **retouchées avant leur mise en ligne** sur le site afin :
 
-* d'une part de ne pas alourdir le poids total de la page web \(pour cela, il est souhaitable d'optimiser les images   au moyen d'un logiciel spécifique et de choisir une résolution de 72dpi\),
-* d'autre part de s'intégrer dans la charte graphique du site \(les graphiques issus de logiciels type "excel"   devront être retravaillés dans des nuances de couleurs s'accordant à la charte graphique\).
+* d'une part de ne pas alourdir le poids total de la page web \(pour cela, il est souhaitable d'optimiser les images au moyen d'un logiciel spécifique et de choisir une résolution de 72dpi\),
+* d'autre part de s'intégrer dans la charte graphique du site \(les graphiques issus de logiciels type "excel" devront être retravaillés dans des nuances de couleurs s'accordant à la charte graphique\).
 
-Les formats à privilégier sont le **jpeg **pour les **photos **et le **png** pour les **logos**, **schémas **et **graphiques**.
+Les formats à privilégier sont le **jpeg **pour les **photos **et le **png** pour les **logos**, **schémas **et **graphiques**.
+
+#### Documents téléchargeables
+
+Des documents téléchargeables peuvent être proposés aux internautes.
+
+Il sera porté une attention particulière à ce que ces documents soient proposés dans des** formats accessibles au plus grand nombre d'internautes** \(formats ne nécessitant pas l'acquisition d'un logiciel payant notamment\).
+
+Chaque fois qu'un fichier sera proposé en téléchargement, une phrase indiquera clairement le format et le poids du fichier ainsi que le logiciel qui permet de le lire \(exemple : fichier PDF \(36Ko\) lisible avec le logiciel Acrobat Reader\). Un lien sera proposé en complément pour télécharger une visionneuse gratuite permettant de lire le fichier.
+
+> **Remarque spécifique aux documents PDF**
+>
+> Le recours aux documents PDF proposés en téléchargement est une pratique de plus en plus répandue pour une mise en ligne rapide de documents souvent initialement prévus pour une diffusion papier. Le format PDF présente les avantages d'être peu coûteux à produire et d'offrir de bons résultats à l'impression \(hormis s'il s'agit d'un document "scanné" et converti en PDF\). En revanche, certaines études d'ergonomie ont démontré que la lecture d'un document PDF reste fort peu conviviale \(en moyenne, un document PDF est trois fois plus difficile à lire qu'une page HTML classique\). Il est donc recommandé de réserver les fichiers PDF à des documents de "complément" \(exemple : complément réservé à une impression de qualité, formulaire CERFA, note de service, complément d'une information dite "de 1er niveau", etc.\).
+>
+> Une **bonne pratique** peut être de **proposer une page web** composée :
+>
+> * d'un **résumé **du contenu,
+> * du **sommaire **du document,
+> * du **document complet** lui-même, imprimable au format PDF.
 
 
 
