@@ -1,4 +1,4 @@
-# Créer une page
+## Créer une page
 
 Pour ajouter une nouvelle une page :
 

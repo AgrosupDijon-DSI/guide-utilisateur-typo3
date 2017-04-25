@@ -1,4 +1,4 @@
-# Accéder à l'administration d'un site TYPO3
+## Accéder à l'administration d'un site TYPO3
 
 L'accès  à l'administration  se  fait  après  identification  à l'adresse www.**\[adresse-de-votre-site.fr\]**/typo3 :
 

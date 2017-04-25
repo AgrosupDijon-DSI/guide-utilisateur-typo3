@@ -1,4 +1,4 @@
-# Éditer une page
+## Éditer une page
 
 Pour ajouter du contenu dans une page :
 
@@ -7,6 +7,14 @@ Pour ajouter du contenu dans une page :
 * Cliquer sur l’icône **Modifier les propriétés de la page **\(voir ci-dessous\) dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md)** :**
 
 ![](/assets/add_page_edit.png)
+
+![](/assets/add_page_edit_1.png)
+
+---
+
+### Général
+
+---
 
 
 

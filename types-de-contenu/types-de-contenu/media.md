@@ -1,4 +1,4 @@
-# Élément de contenu : Vidéo
+### Élément de contenu : Vidéo
 
 > **Note : **Ce contenu permet d'ajouter des vidéos provenant des services Youtube et Vimeo uniquement.
 
@@ -22,7 +22,7 @@ Un onglet **Média **est disponible, il permet d'ajouter une vidéo provenant de
 
 ---
 
-## Position
+#### Position
 
 > Uniquement pour le contenu **Texte & Média**
 
@@ -32,7 +32,7 @@ Ce champ permet de définir le placement du média par rapport au texte associé
 
 ---
 
-## **Colonnes**
+#### **Colonnes**
 
 Ce champ définit le nombre de média affichées par ligne.
 
@@ -42,7 +42,7 @@ Ce champ définit le nombre de média affichées par ligne.
 
 ---
 
-## Média éléments
+#### Média éléments
 
 Cette zone permet d'ajouter un ou plusieurs média.
 

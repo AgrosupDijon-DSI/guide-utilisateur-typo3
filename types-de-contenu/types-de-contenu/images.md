@@ -1,4 +1,4 @@
-# Élément de contenu : Image
+### Élément de contenu : Image
 
 A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
@@ -20,7 +20,7 @@ Un onglet **Images** est disponible, il permet d'ajouter et configurer des image
 
 ---
 
-## Position
+#### Position
 
 > Uniquement pour le contenu **Texte & Image**
 
@@ -30,7 +30,7 @@ Ce champ permet de définir le placement de l'image par rapport au texte associ�
 
 ---
 
-## **Colonnes**
+#### **Colonnes**
 
 Ce champ définit le nombre d'images affichées par ligne.
 
@@ -40,7 +40,7 @@ Ce champ définit le nombre d'images affichées par ligne.
 
 ---
 
-## **Images**
+#### **Images**
 
 Cette zone permet d'ajouter une ou plusieurs images.
 
@@ -108,7 +108,7 @@ Cliquer sur **Nom de fichier** pour éditer les informations relatives à l'imag
 
 ---
 
-## Agrandissement au clic
+#### Agrandissement au clic
 
 Une fois activée, cette option permet d'agrandir l'image à la taille de l'écran de l'internaute lors du clic sur cette dernière.
 

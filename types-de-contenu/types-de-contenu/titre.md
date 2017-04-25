@@ -1,4 +1,4 @@
-# Élément de contenu : Titre
+### Élément de contenu : Titre
 
 A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
@@ -19,27 +19,27 @@ Le principal intérêt du contenu de type **Titre **est d'être associé à un c
 
 ---
 
-## **Titre **
+#### **Titre **
 
 Insérer le texte qui sera affiché en tant que titre.
 
 ---
 
-## **Type**
+#### **Type**
 
-Associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(H1 = Titre de niveau 1, H2 = Titre de niveau 2...\). 
+Associé au titre, il détermine le style d'affichage du **Titre**. A choisir en fonction du niveau de titre \(H1 = Titre de niveau 1, H2 = Titre de niveau 2...\).
 
 Le type **Caché** masque l'en-tête pour les internautes.
 
 ---
 
-## **Alignement**
+#### **Alignement**
 
 Affiche le titre à gauche, droite ou au centre ;
 
 ---
 
-## **Lien **
+#### **Lien **
 
 Le titre peut être un lien et pointer vers une page interne du site ou vers un autre site.
 
