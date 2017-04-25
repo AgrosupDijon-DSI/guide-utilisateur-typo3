@@ -1,4 +1,4 @@
-# Créer un élément de contenu
+## Créer un élément de contenu
 
 Pour ajouter du contenu dans une page :
 

@@ -1,4 +1,4 @@
-# Élément de contenu : Audio
+### Élément de contenu : Audio
 
 A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
@@ -14,7 +14,7 @@ Un onglet **Média **est disponible, il permet d'ajouter un fichier audio **mp3 
 
 ---
 
-## Media elements
+#### Media elements
 
 Cette zone permet d'ajouter un ou plusieurs fichiers audio.
 
@@ -24,7 +24,7 @@ Pour ajouter un ou plusieurs fichier audio, cliquer sur le bouton **Créer une n
 
 Une nouvelle fenêtre s'ouvre, articulée en deux colonnes, elle permet d'effectuer une sélection d'un ou plusieurs fichiers audio.
 
-![](blob:https://www.gitbook.com/d7497ba1-4113-4e6a-bd51-27e196d5db65)
+![](/assets/add_content_file1.png)
 
 La colonne de gauche présente l'arborescence du dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\), sélectionner le répertoire contenant la ou les fichiers à insérer.
 
@@ -32,11 +32,11 @@ La colonne de gauche présente l'arborescence du dossier des ressources \(voir [
 
 La colonne de droite s'actualise avec la liste des fichiers audio présent dans le répertoire choisi.
 
-![](blob:https://www.gitbook.com/ab4f4ef9-db7e-42d2-8dbd-6e65b85c4aca) Fichier non sélectionné
+![](/assets/btn_selection_off.png) Fichier non sélectionné
 
-![](blob:https://www.gitbook.com/da8b80dc-d202-4c97-9be2-679d5b0bac72) Fichier sélectionné
+![](/assets/btn_selection_off.png) Fichier sélectionné
 
-![](blob:https://www.gitbook.com/2f43b7b8-4e13-4453-aa6d-5ca51ff53948) Importer la sélection
+![](/assets/btn_import.png) Importer la sélection
 
 Sélectionner les images désirées et cliquer sur **Importer la sélection**.
 
@@ -48,7 +48,7 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur pa
 
 > **Note :**
 >
-> ![](blob:https://www.gitbook.com/1f56ef2b-9c55-4e51-82d5-3130815d28fd)
+> ![](/assets/btn_import_img.png)
 >
 > Il est possible d'ajouter directement un ou plusieurs fichier audio depuis le poste utilisateur, cliquer sur le bouton **Sélectionner et transférer des fichiers**.
 >
@@ -58,11 +58,11 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur pa
 
 Une fois les fichiers audio importés, ils s'affichent par ordre d'apparition et peuvent être modifiés :
 
-![](blob:https://www.gitbook.com/6842371c-7d6d-4e90-b1b7-fd460fa2ce9c) supprimer le fichier du contenu \(ne le supprime pas du dossier de ressource\) ;
+![](/assets/rm_btn.png) supprimer le fichier du contenu \(ne le supprime pas du dossier de ressource\) ;
 
-![](blob:https://www.gitbook.com/b69a1536-f897-4add-9f7c-708a997421aa) cacher/afficher le fichier audio ;
+![](/assets/hide_btn.png) cacher/afficher le fichier audio ;
 
-![](blob:https://www.gitbook.com/a9eba372-7a1d-41e4-bc6d-baae4037cb11) sélectionner le fichier pour changer l'ordre d'apparition par glisser/déposer :
+![](/assets/btn_select.png) sélectionner le fichier pour changer l'ordre d'apparition par glisser/déposer :
 
 ![](/assets/add_content_audio_ordre.png)
 

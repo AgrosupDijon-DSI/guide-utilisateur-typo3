@@ -1,4 +1,4 @@
-# Éditer un élément de contenu
+## Éditer un élément de contenu
 
 Pour éditer, cacher ou supprimer un contenu existant dans une page :
 
@@ -16,6 +16,4 @@ Repérer le contenu à modifier et cliquer sur le bouton correspondant :
 ![](/assets/hide_btn.png) Cacher/afficher le contenu. Il est possible ainsi de préparer un contenu sans qu'il soit visible par les internautes.
 
 ![](/assets/rm_btn.png) Supprimer le contenu.
-
-
 

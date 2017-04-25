@@ -22,7 +22,8 @@
   * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Configuration](configuration.md)
-  * Google Analytics
+  * [Informations générales](configuration/informations-generales.md)
+  * [Google Analytics](configuration/google-analytics.md)
 * [Gestion des pages](gestion-des-pages.md)
   * [Créer une page](gestion-des-pages/creer-une-page.md)
   * [Éditer une page](gestion-des-pages/editer-un-page.md)
