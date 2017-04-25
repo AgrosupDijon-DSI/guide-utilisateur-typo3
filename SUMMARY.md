@@ -20,9 +20,11 @@
   * [Accès et identification](présentation-de-typo3/acces-et-identification.md)
   * [Se repérer dans le "Backend"](présentation-de-typo3/se-reperer-dans-le-backend.md)
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
+* [Configuration](configuration.md)
+  * Google Analytics
 * [Gestion des pages](gestion-des-pages.md)
   * [Créer une page](gestion-des-pages/creer-une-page.md)
-  * [Éditer un page](gestion-des-pages/editer-un-page.md)
+  * [Éditer une page](gestion-des-pages/editer-un-page.md)
 * [Gestion du contenu](types-de-contenu.md)
   * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
   * [Editer élément de contenu](types-de-contenu/editer-element-de-contenu.md)
@@ -42,7 +44,4 @@
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
   * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
 * [Charte graphique](charte-graphique.md)
-* [Spécificités](specificites.md)
-  * Bandeau
-  * Google Analytics
 
