@@ -1,4 +1,4 @@
-## Du papier à l'écran : une nécessaire adaptation de l'ecrit
+## Du papier à l'écran : une nécessaire adaptation de l'écrit
 
 La mise en ligne d'un document initialement prévu pour une diffusion papier ne se réduit pas à effectuer quelques  
 "copier-coller" ou à produire un fichier PDF téléchargeable.  
