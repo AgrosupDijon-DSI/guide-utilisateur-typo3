@@ -21,11 +21,37 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ### Général
 
+**Titre **: définit un titre pour la page ;
+
+**Type** : modifie le type de l'actualité, lien vers une page interne ou externe \(vers un autre site\) ;
+
+**Cacher** : cache l'actualité au internaute ;
+
+**Texte d'accroche** : résumé affiché dans la liste des actualités ;
+
+**Nom de l'auteur **: définit un auteur de l'actualité \(affiché en fonction de la template\) ;
+
+**Courriel de l'auteur** : définit un email disponible en lien sur le nom de l'auteur ;
+
+**Date et heure** : date de l'enregistrement de l'actualité ;
+
+**Archives **: date d'archivage de l'actualité ;
+
+**Editeur RTE **: contenu de l'actualité.
+
 ### Accès
 
-### Options
+**Date de publication** : date de publication de l'actualité ;
+
+**Date d'explication** : date d'expiration de l'actualité, après cette date, l'actualité sera cachée ;
 
 ### Relations
+
+**Fichier média** : lier une vidéo **youtube **ou **vimeo **à l'actualité ;
+
+**Fichiers en relation** : lier une **image **à l'actualité ;
+
+**Liens en relation **: lier un **lien externe** ou interne à l'actualité ;
 
 ### Métadonnée
 
