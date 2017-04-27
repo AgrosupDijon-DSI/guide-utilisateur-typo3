@@ -1,5 +1,7 @@
 # Charte graphique
 
+---
+
 Une charte graphique est définie pour chaque site internet.
 
 L'intérêt d'avoir une charte graphique est double :
@@ -16,7 +18,7 @@ Il existe deux principaux modèles :
 
 * un modèle pour les autres pages dites "pages de descente"
 
-Suivant les particularités du site, d'autres modèles peuvent être mis à disposition des rédacteurs. 
+Suivant les particularités du site, d'autres modèles peuvent être mis à disposition des rédacteurs.
 
 La charte graphique permet de définir la position des différents éléments qui constituent les pages du site. La structure traditionnelle d'une page web est la suivante :
 
