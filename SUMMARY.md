@@ -23,6 +23,7 @@
   * [Éditer mon compte](présentation-de-typo3/gerer-mon-compte.md)
 * [Configuration](configuration.md)
   * [Informations générales](configuration/informations-generales.md)
+  * [Réseaux sociaux](configuration/reseaux-sociaux.md)
   * [Google Analytics](configuration/google-analytics.md)
 * [Gestion des pages](gestion-des-pages.md)
   * [Créer une page](gestion-des-pages/creer-une-page.md)
