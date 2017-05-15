@@ -1,9 +1,9 @@
 ## Éditer une actualité
 
-Pour ajouter éditer une actualité :
+Pour éditer une actualité :
 
 * Sélectionner le mode **Gestion des Actualités** dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md) ;
-* Cliquer sur l'icone ![](/assets/icone_actu.png) de l'actualité cible dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md) puis **Éditer**.
+* Cliquer sur l'icône ![](/assets/icone_actu.png) de l'actualité cible dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md) puis **Éditer**.
 
 ---
 
@@ -21,15 +21,15 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ### Général
 
-**Titre **: définit un titre pour la page ;
+**Titre **: définit un titre pour l'actualité ;
 
 **Type** : modifie le type de l'actualité, lien vers une page interne ou externe \(vers un autre site\) ;
 
-**Cacher** : cache l'actualité au internaute ;
+**Cacher** : cache l'actualité aux internautes ;
 
 **Texte d'accroche** : résumé affiché dans la liste des actualités ;
 
-**Nom de l'auteur **: définit un auteur de l'actualité \(affiché en fonction de la template\) ;
+**Nom de l'auteur **: définit un auteur de l'actualité \(affiché en fonction des sites\) ;
 
 **Courriel de l'auteur** : définit un email disponible en lien sur le nom de l'auteur ;
 
