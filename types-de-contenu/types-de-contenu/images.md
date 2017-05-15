@@ -10,7 +10,7 @@ Il est également possible de combiner un élément **Images** avec un élément
 
 > **Note : **Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](/types-de-contenu/types-de-contenu/titre.md).
 >
-> Pour un contenu de type **Texte & images**, se référer à la fiche dédié à l'élément [Texte](/types-de-contenu/types-de-contenu/texte.md).
+> Pour un contenu de type **Texte & images**, se référer à la fiche dédiée à l'élément [Texte](/types-de-contenu/types-de-contenu/texte.md).
 
 ---
 
@@ -56,7 +56,7 @@ La colonne de gauche présente l'arborescence du dossier des ressources \(voir [
 
 ![](/assets/add_content_file2.png)
 
-La colonne de droite s'actualise avec la liste des fichiers images présent dans le répertoire choisi.
+La colonne de droite s'actualise avec la liste des fichiers images présents dans le répertoire choisi.
 
 ![](/assets/btn_selection_off.png) Image non sélectionnée
 
@@ -64,13 +64,16 @@ La colonne de droite s'actualise avec la liste des fichiers images présent dans
 
 ![](/assets/btn_import.png) Importer la sélection
 
-Sélectionner les images désirées et cliquer sur** Importer la sélection**.
+Sélectionner les images désirées et cliquer sur** **l'icône** Importer la sélection**.
 
+  
 Si l'image n'existe pas dans le répertoire des ressources, il faut alors la télécharger depuis le poste utilisateur.
 
 ![](/assets/file_upload.png)
 
-En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur parcourir pour sélectionner les fichiers images depuis le poste utilisateur. Cliquer sur **Envoyer des fichier **pour télécharger les images dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
+En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **Parcourir** pour sélectionner les fichiers images depuis le poste utilisateur. Cliquer sur **Envoyer des fichiers **pour télécharger les images dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
+
+
 
 > **Note :**
 >
@@ -82,6 +85,7 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur pa
 
 ![](/assets/add_content_img_list.png)
 
+  
 Une fois les images importées, elles s'affichent par ordre d'apparition et peuvent être modifiées :
 
 ![](/assets/rm_btn.png) supprimer l'image du contenu \(ne supprime pas l'image du dossier de ressource\) ;
