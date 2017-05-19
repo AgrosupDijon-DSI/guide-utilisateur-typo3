@@ -12,7 +12,7 @@ Dans l'onglet **Général**, il est possible de modifier le **Type **du contenu 
 
 L'onglet **Accès** permet de définir la visibilité du contenu, sélectionner **Désactiver** pour qu'il ne soit plus visible par les internautes.
 
-> **Note :** Il existe une multitude de types de contenu disponible, certains ne sont pas détaillées dans ce guide mais suivent la même logique d'ajout.
+> **Note :** Il existe une multitude de types de contenus disponible, certains ne sont pas détaillés dans ce guide mais suivent la même logique d'ajout.
 
 
 

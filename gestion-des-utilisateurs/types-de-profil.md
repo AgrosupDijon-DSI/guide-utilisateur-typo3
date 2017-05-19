@@ -1,4 +1,4 @@
-# Types de profil
+# Types de profils
 
 Il existe, de manière générale, deux types de profils sur les sites : **administrateur **et **rédacteur**.
 

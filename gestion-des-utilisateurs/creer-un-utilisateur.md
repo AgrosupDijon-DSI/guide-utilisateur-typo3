@@ -1,6 +1,6 @@
 # Créer un utilisateur
 
-Pour ajouter du contenu dans une page :
+Pour créer un utilisateur :
 
 * Sélectionner le mode **User Admin** dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md) ;
 * Cliquer sur l’icône ![](/assets/add_user_btn.png)

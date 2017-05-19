@@ -6,7 +6,7 @@ Pour ajouter du contenu dans une page :
 * Cliquer sur la page dans laquelle doit être inséré le contenu dans l'[Arborescence](/présentation-de-typo3/se-reperer-dans-le-backend.md);
 * Cliquer sur l’icône ![](/assets/add_content_btn.png) **Contenu** dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md)** **pour créer un nouvel élément de contenu dans la page.
 
-Une liste de tous les types de contenu disponibles est alors proposée, organisée par onglet en fonction de leurs spécificités :
+Une liste de tous les types de contenus disponibles est alors proposée, organisée par onglet en fonction de leurs spécificités :
 
 ![](/assets/add_content_list.png)
 
@@ -34,9 +34,9 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](/assets/add_content_text.png)
 
-Chaque type de contenu possède ses spécificités propres mais comporte également des éléments communs \(voir la section [Types de contenu](/types-de-contenu/types-de-contenu.md)\). Si le type de contenu choisie ne convient pas, il est toujours possible d'en changer avec le champ **Type**.
+Chaque type de contenu possède ses spécificités propres mais comporte également des éléments communs \(voir la section [Types de contenu](/types-de-contenu/types-de-contenu.md)\). Si le type de contenu choisi ne convient pas, il est toujours possible d'en changer avec le champ **Type**.
 
-Une fois les champs saisies, le contenu doit être sauvegardé en cliquant sur le bouton **Enregistrer** :
+Une fois les champs saisis, le contenu doit être sauvegardé en cliquant sur le bouton **Enregistrer** :
 
 ![](/assets/btn_page_save.png)
 
