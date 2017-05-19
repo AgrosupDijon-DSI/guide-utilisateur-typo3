@@ -1,5 +1,7 @@
 ## Informations générales
 
+> _Page en construction, certaines informations sont manquantes._
+
 Pour ajouter modifier les informations du site :
 
 * Sélectionner le mode **Liste **dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md).
