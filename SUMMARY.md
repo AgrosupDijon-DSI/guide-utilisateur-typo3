@@ -48,4 +48,9 @@
   * [Créer un répertoire](gestion-des-fichiers/creer-un-repertoire.md)
   * [Ajouter un fichier](gestion-des-fichiers/ajouter-un-fichier.md)
 * [Charte graphique](charte-graphique.md)
+  * [Changer de charte](charte-graphique/changer-de-charte.md)
+  * [Spécifications](charte-graphique/specifications.md)
+    * [Ministère](charte-graphique/specifications/ministere.md)
+    * [Gaïa](charte-graphique/specifications/gaia.md)
+    * [Eole](charte-graphique/specifications/eole.md)
 
