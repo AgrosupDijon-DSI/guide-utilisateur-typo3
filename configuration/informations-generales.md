@@ -1,12 +1,24 @@
 ## Informations générales
 
-Pour ajouter modifier les informations du site :
+Pour ajouter ou modifier les informations du site :
 
 * Sélectionner le mode **Liste **dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md).
 * Cliquer sur la page **Configuration **dans l'[Arborescence](/présentation-de-typo3/se-reperer-dans-le-backend.md);
-* Cliquer sur l’icône **Éditer l'enregistrement** sur la ligne comprenant le titre actuel du site dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md).
+* Cliquer sur l’icône **Éditer l'enregistrement** sur la ligne comprenant le **titre actuel du site** dans la [Vue détaillée](/présentation-de-typo3/se-reperer-dans-le-backend.md).
 
 ![](/assets/config_edit.png)
+
+---
+
+En haut de la vue détaillée, différentes actions sont proposées :
+
+![](/assets/btn_page_cancel.png.png) annuler les modifications ;
+
+![](/assets/btn_page_save.png) enregistrer les modifications ;
+
+> **Note : **
+>
+> ![](/assets/btn_page_other.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition.
 
 ---
 
