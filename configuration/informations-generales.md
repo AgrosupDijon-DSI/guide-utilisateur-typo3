@@ -24,6 +24,10 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](/assets/config_edit_form.png)
 
+> **Note :**
+>
+> Pour toutes modifications dans la partie **Configuration**, il est nécessaire de **Vider le cache** du site pour quelles soient prisent en compte instantanément.
+
 ### Général
 
 **Titre** : changer le titre du site ;
