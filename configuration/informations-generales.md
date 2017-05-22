@@ -1,7 +1,5 @@
 ## Informations générales
 
-> _Page en construction, certaines informations sont manquantes._
-
 Pour ajouter modifier les informations du site :
 
 * Sélectionner le mode **Liste **dans la [Liste des modules](/présentation-de-typo3/se-reperer-dans-le-backend.md).
@@ -28,7 +26,7 @@ Pour ajouter modifier les informations du site :
 
 ### Logos
 
-**Logo principal** : ajouter le logo du site, affiché en haut à gauche du bandeau ; 
+**Logo principal** : ajouter le logo du site, affiché en haut à gauche du bandeau ;
 
 **Logo partenaire** : ajouter un logo partenaire \(possibilité d'ajouter également un lien\), affiché en haut à droite du site \(en fonction de la charte graphique sélectionnée\) ;
 
