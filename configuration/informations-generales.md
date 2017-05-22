@@ -16,6 +16,12 @@ Pour ajouter modifier les informations du site :
 
 ### Général
 
+**Titre **: permet de changer le titre du site ;
+
+**Type** : définir le type du titre, agit sur la taille affichée ;
+
+**Alignement **: 
+
 ### Logos
 
 ### Adresse
