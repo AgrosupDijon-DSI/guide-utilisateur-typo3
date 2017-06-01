@@ -1,4 +1,4 @@
-# Recommandations éditoriales
+# Règles rédactionnelles et d'illustration
 
 ---
 
