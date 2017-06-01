@@ -10,7 +10,7 @@
   * [Mentions légales](mentions-légales.md)
 * [Règles rédactionnelles et d'illustration](recommandations-éditoriales.md)
   * [Règles communes](du-papier-à-lécran.md)
-  * [Composition d'un document à mettre en ligne](composition-dun-document-à-mettre-en-ligne.md)
+  * [Éléments fondamentaux d'une page web](composition-dun-document-à-mettre-en-ligne.md)
   * [Rappel de quelques règles typographiques](rappel-de-quelques-regles-typographiques.md)
   * [Collecte et traitement des contenus à mettre en ligne](collecte-et-traitement-des-contenus-a-mettre-en-ligne.md)
   * [Aspects juridiques](aspects-juridiques.md)
