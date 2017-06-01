@@ -4,11 +4,9 @@
 
 ## Sommaire
 
-1. [Du papier à l'écran : une nécessaire adaptation de l'écrit](/du-papier-à-lécran.md)
-2. [Composition d'un document à mettre en ligne](/composition-dun-document-à-mettre-en-ligne.md)
-3. [Rappel de quelques règles typographiques](/rappel-de-quelques-regles-typographiques.md)
-4. [Collecte et traitement des contenus à mettre en ligne](/collecte-et-traitement-des-contenus-a-mettre-en-ligne.md)
-5. [Aspects juridiques](/aspects-juridiques.md)
+1. [Règles communes](/regles-communes.md "Règles communes")
+2. [Éléments fondamentaux d'une page web](/elements-fondamentaux-page-web.md "Éléments fondamentaux d&apos;une page web")
+3. [Éléments complémentaires d'une page web](/Éléments complémentaires d'une page web "Éléments complémentaires d&apos;une page web")
 
 
 

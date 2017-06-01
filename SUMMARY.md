@@ -9,11 +9,9 @@
   * [Acteurs](acteurs.md)
   * [Mentions légales](mentions-légales.md)
 * [Règles rédactionnelles et d'illustration](recommandations-éditoriales.md)
-  * [Règles communes](du-papier-à-lécran.md)
-  * [Éléments fondamentaux d'une page web](composition-dun-document-à-mettre-en-ligne.md)
-  * [Éléments complémentaires d'une page web](rappel-de-quelques-regles-typographiques.md)
-  * [Collecte et traitement des contenus à mettre en ligne](collecte-et-traitement-des-contenus-a-mettre-en-ligne.md)
-  * [Aspects juridiques](aspects-juridiques.md)
+  * [Règles communes](regles-communes.md)
+  * [Éléments fondamentaux d'une page web](elements-fondamentaux-page-web.md)
+  * [Éléments complémentaires d'une page web](elements-complementaires-page-web.md)
 
 ## Fiches d'utilisation de TYPO3
 
