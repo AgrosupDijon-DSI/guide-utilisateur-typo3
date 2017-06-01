@@ -8,12 +8,10 @@
   * [Étapes préalables à la conception du site](étapes-préalables-à-la-conception-du-site.md)
   * [Acteurs](acteurs.md)
   * [Mentions légales](mentions-légales.md)
-* [Recommandations éditoriales](recommandations-éditoriales.md)
-  * [Du papier à l'écran](du-papier-à-lécran.md)
-  * [Composition d'un document à mettre en ligne](composition-dun-document-à-mettre-en-ligne.md)
-  * [Rappel de quelques règles typographiques](rappel-de-quelques-regles-typographiques.md)
-  * [Collecte et traitement des contenus à mettre en ligne](collecte-et-traitement-des-contenus-a-mettre-en-ligne.md)
-  * [Aspects juridiques](aspects-juridiques.md)
+* [Règles rédactionnelles et d'illustration](recommandations-éditoriales.md)
+  * [Règles communes](regles-communes.md)
+  * [Éléments fondamentaux d'une page web](elements-fondamentaux-page-web.md)
+  * [Éléments complémentaires d'une page web](elements-complementaires-page-web.md)
 
 ## Fiches d'utilisation de TYPO3
 
