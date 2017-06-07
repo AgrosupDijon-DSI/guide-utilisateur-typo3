@@ -22,7 +22,9 @@ Pour configurer le bandeau photos :
 
 **Forcer la largeur des images** : force la largeur de l'image à la taille du site, une image petite sera alors agrandie ;
 
-**Largeur **/ **Hauteur : **en fonction du type de bandeau sélectionné, définir une taille désirée des photos, ces valeurs sont définis par défaut en fonction de la charte graphique choisie.
+**Largeur **/ **Hauteur** : en fonction du type de bandeau sélectionné, définir une taille désirée des photos, ces valeurs sont définis par défaut en fonction de la charte graphique choisie.
+
+
 
 **Enregistrer **les modifications et **vider le cache** du site.
 
