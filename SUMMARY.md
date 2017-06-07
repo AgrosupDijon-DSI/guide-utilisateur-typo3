@@ -22,6 +22,7 @@
   * [Vider le cache](présentation-de-typo3/vider-le-cache.md)
 * [Configuration](configuration.md)
   * [Informations générales](configuration/informations-generales.md)
+  * [Bandeau photos](configuration/bandeau-photos.md)
   * [Réseaux sociaux](configuration/reseaux-sociaux.md)
   * [Google Analytics](configuration/google-analytics.md)
 * [Gestion des pages](gestion-des-pages.md)

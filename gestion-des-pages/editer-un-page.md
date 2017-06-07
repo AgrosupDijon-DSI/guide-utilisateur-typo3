@@ -56,5 +56,5 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 #### Ressources
 
-**Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow\) si plusieurs images. Voir la partie [Gestion des fichiers](/gestion-des-fichiers.md) pour ajouter des images.
+**Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow ou caroussel, voir partie [Bandeau photos](/configuration/bandeau-photos.md)\) si plusieurs images. Voir la partie [Gestion des fichiers](/gestion-des-fichiers.md) pour ajouter des images.
 
