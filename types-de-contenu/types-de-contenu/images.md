@@ -127,8 +127,8 @@ Pour le contenu **Texte & Image**, un onglet **Apparences **est disponible, il p
 Ce champ définit la taille de colonne des images :
 
 | 1/3 | 1/4 | 1/6 | Par défaut \(1/2\) |
-| :---: | :---: | :---: | :--- |
-| ![](/assets/add_image_texte_col33.png) | ![](/assets/add_image_texte_col25.png) | ![](/assets/add_image_texte_col20.png) |  |
+| :---: | :---: | :---: | :---: |
+| ![](/assets/add_image_texte_col33.png) | ![](/assets/add_image_texte_col25.png) | ![](/assets/add_image_texte_col20.png) | ![](/assets/add_image_texte_col50.png) |
 
 
 
