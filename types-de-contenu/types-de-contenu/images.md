@@ -66,14 +66,11 @@ La colonne de droite s'actualise avec la liste des fichiers images présents dan
 
 Sélectionner les images désirées et cliquer sur** **l'icône** Importer la sélection**.
 
-  
 Si l'image n'existe pas dans le répertoire des ressources, il faut alors la télécharger depuis le poste utilisateur.
 
 ![](/assets/file_upload.png)
 
 En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **Parcourir** pour sélectionner les fichiers images depuis le poste utilisateur. Cliquer sur **Envoyer des fichiers **pour télécharger les images dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
-
-
 
 > **Note :**
 >
@@ -85,7 +82,6 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **
 
 ![](/assets/add_content_img_list.png)
 
-  
 Une fois les images importées, elles s'affichent par ordre d'apparition et peuvent être modifiées :
 
 ![](/assets/rm_btn.png) supprimer l'image du contenu \(ne supprime pas l'image du dossier de ressource\) ;
@@ -115,4 +111,24 @@ Cliquer sur **Nom de fichier** pour éditer les informations relatives à l'imag
 #### Agrandissement au clic
 
 Une fois activée, cette option permet d'agrandir l'image à la taille de l'écran de l'internaute lors du clic sur cette dernière.
+
+---
+
+![](/assets/add_content_image_texte_apparence.png)
+
+Pour le contenu **Texte & Image**, un onglet **Apparences **est disponible, il permet de modifier la taille de la colonne image.
+
+---
+
+#### Mise en page
+
+> Uniquement pour le contenu **Texte & Image**
+
+Ce champ définit la taille de colonne des images :
+
+| 1/3 | 1/4 | 1/6 | Par défaut \(1/2\) |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
+
+
 
