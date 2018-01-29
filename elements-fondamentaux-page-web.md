@@ -34,14 +34,14 @@ Il est recommandé :
 
 En revanche, il conviendra :
 
-* de **limiter l'usage** des styles **italique** \(difficilement lisible à l'écran et utilisable seulement pour de courtes citations\) et souligné \(réservé uniquement pour les liens hypertextes\),
+* de **limiter l'usage** des styles **italiques** \(difficilement lisible à l'écran et utilisable seulement pour de courtes citations\) et souligné \(réservé uniquement pour les liens hypertextes\),
 * d'**éviter les repères spatiaux propres au support papier** \("ci-dessous", notes de bas de page, etc.\) qui sont peu compatibles avec la navigation hypertextuelle.
 
 Le **réflexe "dossier"** sera privilégié dès lors que les contenus à mettre en ligne dépassent un équivalent de 2 pages web.
 
 Cette technique permet de **morceler un long texte en plusieurs pages et de les relier par un résumé et un sommaire**.
 
-Cette solution offre l'avantage d'offrir des textes plus courts donc plus attrayants et donne la possibilité de "feuilleter" les pages web à la manière d'un livre.
+Cette solution offre l'avantage de proposer des textes plus courts donc plus attrayants et donne la possibilité de "feuilleter" les pages web à la manière d'un livre.
 
 #### Sources
 

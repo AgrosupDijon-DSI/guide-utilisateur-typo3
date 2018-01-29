@@ -1,4 +1,4 @@
-### Élément de contenu : Audio
+### Audio
 
 A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
@@ -40,14 +40,11 @@ La colonne de droite s'actualise avec la liste des fichiers audio présents dans
 
 Sélectionner les images désirées et cliquer sur l'icône **Importer la sélection**.
 
-  
 Si le fichier n'existe pas dans le répertoire des ressources, il faut alors le télécharger depuis le poste utilisateur.
 
 ![](/assets/add_content_audio_up.png)
 
 En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **Parcourir** pour sélectionner les fichiers audio depuis le poste utilisateur. Cliquer sur **Envoyer des fichier **pour télécharger les fichiers dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
-
-
 
 > **Note :**
 >
@@ -58,8 +55,6 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **
 > Une nouvelle fenêtre \(en fonction du système d'exploitation de l'utilisateur\) pour la sélection du fichier s'affiche. Le fichier audio est ainsi téléchargé sur le serveur, dans le dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\).
 
 ![](/assets/add_content_audio_liste.png)
-
-
 
 Une fois les fichiers audio importés, ils s'affichent par ordre d'apparition et peuvent être modifiés :
 

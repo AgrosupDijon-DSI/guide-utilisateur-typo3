@@ -9,25 +9,25 @@ Les illustrations doivent être **libres de droits ou publiées avec l’accord 
 Toutes les illustrations \(images, photos, graphiques\) devront être **accompagnées** :
 
 * d'une **légende** \(servant à renseigner le "texte alternatif", court descriptif visible au survol de la souris\),
-* s tableaux de données chiffrées originales \(uniquement dans le cas des graphiques\).
+* de tableaux de données chiffrées originales \(uniquement dans le cas des graphiques\).
 
 Deux hypothèses d'affichage des illustrations sont possibles :
 
-* •**illustration habillée par le texte** : l'image ne devra pas dépasser une largeur équivalente à la moitié de la largeur de la page afin que l'équilibre des deux colonnes image/texte soit respecté,
-* •**illustration sur toute la largeur de la page :** la largeur de l'image pourra utiliser toute la largeur de la page.
+* **illustration habillée par le texte** : l'image ne devra pas dépasser une largeur équivalente à la moitié de la largeur de la page afin que l'équilibre des deux colonnes image/texte soit respecté,
+* **illustration sur toute la largeur de la page :** la largeur de l'image pourra utiliser toute la largeur de la page.
 
 Les illustrations devront être **retouchées avant leur mise en ligne** sur le site afin :
 
 * d'une part de ne pas alourdir le poids total de la page web \(pour cela, il est souhaitable d'optimiser les images au moyen d'un logiciel spécifique et de choisir une résolution de 72dpi\),
 * d'autre part de respecter la charte graphique du site \(les graphiques issus de tableurs devront être retravaillés dans des nuances de couleurs s'accordant à la charte graphique\).
 
-Les formats à privilégier sont le **jpeg** pour les **photos** et le **gif** \(ou le **png**\) pour les **logos**, **schémas** et **graphiques**.
+Les formats à privilégier sont le **jpeg** pour les **photos** et le **png **pour les **logos**, **schémas** et **graphiques**.
 
 Le poids des illustrations ne devra pas dépasser 50Ko pour une photo, 20Ko pour un schéma ou un graphique et 5Ko pour un logo.
 
 ### Tableaux
 
-**Le recours aux tableaux est exclusivement réservé aux données chiffrées**\(exemple : évolution des effectifs d'apprenants par filière entre 2010 et 2015\). En aucun cas un tableau ne peut servir à mettre en page des textes ou des images.
+**Le recours aux tableaux est exclusivement réservé aux données chiffrées **\(exemple : évolution des effectifs d'apprenants par filière entre 2015 et 2017\). En aucun cas un tableau ne peut servir à mettre en page des textes ou des images.
 
 Chaque tableau devra être accompagné d'un titre explicite et éventuellement d'une légende complémentaire.
 
@@ -75,7 +75,7 @@ Relier un document à d'autres documents disponibles sur le web \(soit à l'int�
 * ensuite **limiter les risques d'erreur** en "doublonnant" l'information,
 * enfin **favoriser le référencement** dans les moteurs de recherche qui voit une plus-value à être relié au reste de la toile.
 
-**Veiller toutefois**:
+**Veiller toutefois **:
 
 * à ce que les liens proposés apportent **réellement une information complémentaire** au sujet principal de l’article,
 * à **limiter le nombre de liens** à une dizaine par page,
@@ -83,11 +83,11 @@ Relier un document à d'autres documents disponibles sur le web \(soit à l'int�
 * à positionner les liens sur des expressions de 3 à 10 mots maximum,
 * à assurer la correspondance de l'intitulé du lien et du titre de la page de destination.
 
-Sauf précision contraire affichée explicitement \(dans les pages "Infos site" ou bien "Mentions légales" ou bien encore "A propos du site"\), la plupart des sites web sont a priori favorables à l'établissement de liens vers leurs propres sites. Par courtoisie, il est toutefois recommandé d'envoyer un courrier électronique aux responsables du site concerné \(webmasters\) afin de les prévenir de cette intention et leur donner ainsi la possibilité de refuser.
+Sauf précision contraire affichée explicitement \(dans les pages "Infos site" ou bien "Mentions légales" ou bien encore "À propos du site"\), la plupart des sites web sont a priori favorables à l'établissement de liens vers leurs propres sites. Par courtoisie, il est toutefois recommandé d'envoyer un courrier électronique aux responsables du site concerné \(webmasters\) afin de les prévenir de cette intention et leur donner ainsi la possibilité de refuser.
 
 ### Citation d'articles, de livres, d'images, de liens…
 
 La rédaction de références bibliographiques s’appuiera sur la norme internationale de citation de références bibliographiques ISO 690 \(norme française Z 44-005\) complétée par la norme ISO 690-2 pour les documents électroniques \(norme française Z 44-005-2\).
 
-\(exemples : [http://crdp.ac-bordeaux.fr/documentalistes/formation\_documentaire/z44005.asp\](http://crdp.ac-bordeaux.fr/documentalistes/formation_documentaire/z44005.asp\)\)
+\(exemples : [http://crdp.ac-bordeaux.fr/documentalistes/formation\_documentaire/z44005.asp\](http://crdp.ac-bordeaux.fr/documentalistes/formation_documentaire/z44005.asp%29\)
 

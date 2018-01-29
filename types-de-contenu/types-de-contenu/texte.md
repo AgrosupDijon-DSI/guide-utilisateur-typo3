@@ -1,4 +1,4 @@
-### Élément de contenu : Texte
+### Texte
 
 A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
