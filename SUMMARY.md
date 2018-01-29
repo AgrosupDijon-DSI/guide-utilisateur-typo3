@@ -30,7 +30,7 @@
   * [Éditer une page](gestion-des-pages/editer-un-page.md)
 * [Gestion du contenu](types-de-contenu.md)
   * [Créer un élément de contenu](types-de-contenu/creer-un-element-de-contenu.md)
-  * [Editer élément de contenu](types-de-contenu/editer-element-de-contenu.md)
+  * [Éditer élément de contenu](types-de-contenu/editer-element-de-contenu.md)
   * [Types de contenu](types-de-contenu/types-de-contenu.md)
     * [Titre](types-de-contenu/types-de-contenu/titre.md)
     * [Texte](types-de-contenu/types-de-contenu/texte.md)

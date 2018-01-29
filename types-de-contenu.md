@@ -9,7 +9,7 @@ Dans TYPO3, une page est composée d'un ou plusieurs éléments de contenus de d
 ## Sommaire
 
 1. [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md)
-2. [Editer élément de contenu](/types-de-contenu/editer-element-de-contenu.md)
+2. [Éditer élément de contenu](/types-de-contenu/editer-element-de-contenu.md)
 3. [Types de contenu](/types-de-contenu/types-de-contenu.md)
 
 

@@ -1,6 +1,6 @@
 ## Types de contenu
 
-Chaque élément de contenu possède une section commune pour tous. Après avoir sélectionné une type de contenu dans la partie [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), différents onglets s'affichent :
+Chaque élément de contenu possède une section commune pour tous. Après avoir sélectionné un type de contenu dans la partie [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), différents onglets s'affichent :
 
 ![](/assets/add_content_generique.png)
 

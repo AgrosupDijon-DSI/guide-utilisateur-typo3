@@ -1,11 +1,10 @@
-### Élément de contenu : Titre
+### Titre
 
 A partir de la liste vue dans [Créer un élément de contenu](/types-de-contenu/creer-un-element-de-contenu.md), sélectionner :
 
 ![](/assets/add_content_titre.png)
 
-Le principal intérêt du contenu de type **Titre **est d'être associé à un contenu particulier qui ne possède pas de  
- titre.
+Le principal intérêt du contenu de type **Titre **est d'être associé à un contenu particulier qui ne possède pas de titre.
 
 ---
 

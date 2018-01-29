@@ -2,9 +2,7 @@
 
 ---
 
-Les ressources peuvent être des fichiers de toutes sortes \(images, documents PDF, documents textes, etc.\). Elles  
- sont enregistrées sur le serveur Web et disponibles dans Typo3 pour être traitées et intégrées en tant que lien sur  
- les pages désirées.
+Les ressources peuvent être des fichiers de toutes sortes \(images, documents PDF, documents textes, etc.\). Elles sont enregistrées sur le serveur Web et disponibles dans Typo3 pour être traitées et intégrées en tant que lien sur les pages désirées.
 
 > **Remarque**
 >

@@ -1,4 +1,4 @@
-### Élément de contenu : Vidéo
+### Vidéo
 
 > **Note : **Ce contenu permet d'ajouter des vidéos provenant des services Youtube et Vimeo uniquement.
 
@@ -65,8 +65,6 @@ Dans le champ **Paste media url here**, entrer l'adresse de la vidéo Youtube ou
 > _Les adresses Youtube et Vimeo peuvent être copiées depuis la barre d'adresse du navigateur._
 
 ![](/assets/add_content_media_liste.png)
-
-
 
 Une fois les vidéos importées, elles s'affichent par ordre d'apparition et peuvent être modifiées :
 

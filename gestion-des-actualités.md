@@ -1,4 +1,4 @@
-# Gérer les actualités
+# Gestion des actualités
 
 ---
 
