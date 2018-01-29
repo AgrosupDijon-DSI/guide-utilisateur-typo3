@@ -1,11 +1,5 @@
 ## Éléments complémentaires d'une page web
 
-### Mots clés
-
-Actuellement, la définition de "mots clés" dans les éléments d'identification des pages web du site web www.chlorofil.fr \("Méta données"\) n'est pas utilisée.
-
-Pour autant, l'**utilisation des mots clés** du "fond" du contenu dans les titres, intertitres, etc. est un **atout majeur** non seulement pour la **clarté de la structuration des informations** dans le site mais également pour le **référencement naturel** des pages web sur les moteurs de recherche.
-
 ### Illustrations
 
 Les photographies et images utilisées pour agrémenter les pages devront, autant que possible, **apporter des éléments d'information complémentaires** du texte et/ou d'illustration.
@@ -95,7 +89,5 @@ Sauf précision contraire affichée explicitement \(dans les pages "Infos site" 
 
 La rédaction de références bibliographiques s’appuiera sur la norme internationale de citation de références bibliographiques ISO 690 \(norme française Z 44-005\) complétée par la norme ISO 690-2 pour les documents électroniques \(norme française Z 44-005-2\).
 
-\(exemples : http://crdp.ac-bordeaux.fr/documentalistes/formation\_documentaire/z44005.asp\)
-
-
+\(exemples : [http://crdp.ac-bordeaux.fr/documentalistes/formation\_documentaire/z44005.asp\](http://crdp.ac-bordeaux.fr/documentalistes/formation_documentaire/z44005.asp\)\)
 
