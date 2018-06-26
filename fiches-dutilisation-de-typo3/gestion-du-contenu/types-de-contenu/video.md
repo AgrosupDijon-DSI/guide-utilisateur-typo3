@@ -32,8 +32,7 @@ Ce champ définit le nombre de média affichés par ligne.
 
 | 2 images sur 1 colonne | 3 images sur 2 colonnes | 5 images sur 3 colonnes |
 | :---: | :---: | :---: |
-
-| ![](../../../.gitbook/assets/add_content_img_ex3%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex1%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex2.png) |
+| ![](../../../.gitbook/assets/add_content_img_ex3.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2.png) |
 
 ## Média éléments
 
@@ -63,7 +62,7 @@ Une fois les vidéos importées, elles s'affichent par ordre d'apparition et peu
 
 ![](../../../.gitbook/assets/rm_btn.png) supprimer la vidéo du contenu ;
 
-![](../../../.gitbook/assets/hide_btn%20%281%29.png) cacher/afficher la vidéo ;
+![](../../../.gitbook/assets/hide_btn.png) cacher/afficher la vidéo ;
 
 ![](../../../.gitbook/assets/btn_select%20%281%29.png) sélectionner la vidéo pour changer l'ordre d'apparition par glisser/déposer :
 
