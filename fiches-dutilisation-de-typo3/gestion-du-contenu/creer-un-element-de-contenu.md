@@ -4,7 +4,7 @@ Pour ajouter du contenu dans une page :
 
 * Sélectionner le mode **Page** dans la [Liste des modules](../premiers-pas/se-reperer-dans-le-backend.md) ;
 * Cliquer sur la page dans laquelle doit être inséré le contenu dans l'[Arborescence](../premiers-pas/se-reperer-dans-le-backend.md);
-* Cliquer sur l’icône ![](../../.gitbook/assets/add_content_btn.png) **Contenu** dans la [Vue détaillée](../premiers-pas/se-reperer-dans-le-backend.md) ****pour créer un nouvel élément de contenu dans la page.
+* Cliquer sur l’icône ![](../../.gitbook/assets/add_content_btn.png) **Contenu** dans la [Vue détaillée](../premiers-pas/se-reperer-dans-le-backend.md) _\*\*_pour créer un nouvel élément de contenu dans la page.
 
 Une liste de tous les types de contenus disponibles est alors proposée, organisée par onglet en fonction de leurs spécificités :
 
@@ -20,9 +20,9 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
-> **Note :** 
+> **Note :**
 >
-> ![](../../.gitbook/assets/btn_page_other%20%282%29.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition ou visualiser la page.
+> ![](../../.gitbook/assets/btn_page_other-2%20%281%29.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition ou visualiser la page.
 
 ![](../../.gitbook/assets/btn_page_remove.png) supprimer le contenu;
 
@@ -39,3 +39,4 @@ Une fois les champs saisis, le contenu doit être sauvegardé en cliquant sur le
 > **Note :**
 >
 > ![](../../.gitbook/assets/btn_page_other.png) la flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.
+

@@ -14,7 +14,7 @@ Le principal intérêt du contenu de type **Titre** est d'être associé à un c
 * il peut également n'être qu'une indication de contenu \(sommaire, note de service\) utile pour faire des liens à l'intérieur de la page mais qui n'aurait aucun intérêt à être affiché pour l'internaute ; auquel cas, il est possible de lui affecter le type "Caché" ;
 * le titre de l’élément de contenu permet également de repérer plus facilement les contenus dans l’interface d’administration TYPO3.
 
-## **Titre** 
+## **Titre**
 
 Insérer le texte qui sera affiché en tant que titre.
 
@@ -28,7 +28,7 @@ Le type **Caché** masque l'en-tête pour les internautes.
 
 Affiche le titre à gauche, droite ou au centre ;
 
-## **Lien** 
+## **Lien**
 
 Le titre peut être un lien et pointer vers une page interne du site ou vers un autre site.
 

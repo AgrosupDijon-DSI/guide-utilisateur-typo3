@@ -56,7 +56,7 @@ La colonne de droite s'actualise avec la liste des fichiers images présents dan
 
 ![](../../../.gitbook/assets/btn_import.png) Importer la sélection
 
-Sélectionner les images désirées et cliquer sur ****l'icône **Importer la sélection**.
+Sélectionner les images désirées et cliquer sur **\*\*l'icône** Importer la sélection\*\*.
 
 Si l'image n'existe pas dans le répertoire des ressources, il faut alors la télécharger depuis le poste utilisateur.
 

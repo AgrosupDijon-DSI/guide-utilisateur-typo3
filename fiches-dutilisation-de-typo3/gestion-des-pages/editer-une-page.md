@@ -12,7 +12,7 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
-> **Note :** 
+> **Note :**
 >
 > ![](../../.gitbook/assets/btn_page_other.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition ou visualiser la page.
 
@@ -53,3 +53,4 @@ En haut de la vue détaillée, différentes actions sont proposées :
 ## Ressources
 
 **Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow\) si plusieurs images. Voir la partie [Gestion des fichiers](../gestion-des-fichiers/) pour ajouter des images.
+
