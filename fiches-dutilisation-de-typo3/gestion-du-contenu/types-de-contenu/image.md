@@ -20,7 +20,7 @@ Un onglet **Images** est disponible, il permet d'ajouter et configurer des image
 
 > Uniquement pour le contenu **Texte & Image**
 
-![](../../../.gitbook/assets/add_content_img_pos%20%281%29.png)
+![](../../../.gitbook/assets/add_content_img_pos.png)
 
 Ce champ permet de définir le placement de l'image par rapport au texte associé.
 
@@ -54,7 +54,7 @@ La colonne de droite s'actualise avec la liste des fichiers images présents dan
 
 ![](../../../.gitbook/assets/btn_selection_on%20%281%29.png) Image sélectionnée
 
-![](../../../.gitbook/assets/btn_import%20%281%29.png) Importer la sélection
+![](../../../.gitbook/assets/btn_import%20%282%29.png) Importer la sélection
 
 Sélectionner les images désirées et cliquer sur ****l'icône **Importer la sélection**.
 
@@ -66,6 +66,7 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **
 
 > **Note :**
 >
+
 > ![](../../../.gitbook/assets/btn_import_img%20%281%29.png)
 >
 > Il est possible d'ajouter directement une ou plusieurs images depuis le poste utilisateur, cliquer sur le bouton **Sélectionner et transférer des fichiers**.
