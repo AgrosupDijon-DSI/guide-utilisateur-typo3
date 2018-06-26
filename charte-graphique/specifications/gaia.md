@@ -1,6 +1,0 @@
-### Charte : Gaïa
-
-> En construction
-
-
-

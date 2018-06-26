@@ -1,6 +1,0 @@
-### Charte : Ministère
-
-> En construction
-
-
-
