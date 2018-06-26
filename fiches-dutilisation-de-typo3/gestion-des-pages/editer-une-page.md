@@ -8,7 +8,7 @@ Pour éditer une page :
 
 En haut de la vue détaillée, différentes actions sont proposées :
 
-![](../../.gitbook/assets/btn_page_cancel.png%20%281%29.png) annuler les modifications et retourner à la vue générale de la page ;
+![](../../.gitbook/assets/btn_page_cancel.png.png) annuler les modifications et retourner à la vue générale de la page ;
 
 ![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
@@ -53,4 +53,3 @@ En haut de la vue détaillée, différentes actions sont proposées :
 ## Ressources
 
 **Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow\) si plusieurs images. Voir la partie [Gestion des fichiers](../gestion-des-fichiers/) pour ajouter des images.
-

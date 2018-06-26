@@ -20,7 +20,7 @@ Un onglet **Images** est disponible, il permet d'ajouter et configurer des image
 
 > Uniquement pour le contenu **Texte & Image**
 
-![](../../../.gitbook/assets/add_content_img_pos%20%281%29.png)
+![](../../../.gitbook/assets/add_content_img_pos.png)
 
 Ce champ permet de définir le placement de l'image par rapport au texte associé.
 
@@ -30,7 +30,7 @@ Ce champ définit le nombre d'images affichées par ligne.
 
 | 2 images sur 1 colonne | 3 images sur 2 colonnes | 5 images sur 3 colonnes |
 | :---: | :---: | :---: |
-| ![](../../../.gitbook/assets/add_content_img_ex3.png) | ![](../../../.gitbook/assets/add_content_img_ex1%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex2%20%281%29.png) |
+| ![](../../../.gitbook/assets/add_content_img_ex3.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2%20%281%29.png) |
 
 ## **Images**
 
@@ -52,7 +52,7 @@ La colonne de droite s'actualise avec la liste des fichiers images présents dan
 
 ![](../../../.gitbook/assets/btn_selection_off.png) Image non sélectionnée
 
-![](../../../.gitbook/assets/btn_selection_on%20%281%29.png) Image sélectionnée
+![](../../../.gitbook/assets/btn_selection_on.png) Image sélectionnée
 
 ![](../../../.gitbook/assets/btn_import.png) Importer la sélection
 
@@ -78,7 +78,7 @@ Une fois les images importées, elles s'affichent par ordre d'apparition et peuv
 
 ![](../../../.gitbook/assets/rm_btn%20%281%29.png) supprimer l'image du contenu \(ne supprime pas l'image du dossier de ressource\) ;
 
-![](../../../.gitbook/assets/hide_btn%20%281%29.png) cacher/afficher l'image ;
+![](../../../.gitbook/assets/hide_btn.png) cacher/afficher l'image ;
 
 ![](../../../.gitbook/assets/btn_select.png) sélectionner l'image pour changer l'ordre d'apparition par glisser/déposer :
 

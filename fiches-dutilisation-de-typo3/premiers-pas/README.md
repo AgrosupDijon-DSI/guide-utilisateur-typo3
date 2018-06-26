@@ -1,6 +1,6 @@
 # Premiers pas
 
-![Logo Typo3](https://typo3.org/typo3conf/ext/t3org_template/i/typo3-logo.png)
+![Logo TYPO3](../../.gitbook/assets/logo_typo3-1.svg)
 
 TYPO3 est un système de gestion de contenu de sites Internet basé sur une interface Web. Il offre un ensemble de fonctionnalités pour la création, l'administration et la mise à jour de sites Internet.
 

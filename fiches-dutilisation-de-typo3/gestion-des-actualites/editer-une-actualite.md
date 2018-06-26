@@ -11,7 +11,7 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
-![](../../.gitbook/assets/btn_page_remove%20%281%29.png) supprimer l'actualité.
+![](../../.gitbook/assets/btn_page_remove.png) supprimer l'actualité.
 
 ![](../../.gitbook/assets/add_actu_detail.png)
 

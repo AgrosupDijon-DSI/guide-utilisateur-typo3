@@ -18,13 +18,13 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ![](../../.gitbook/assets/btn_page_cancel.png.png) annuler les modifications et retourner à la vue générale de la page ;
 
-![](../../.gitbook/assets/btn_page_save%20%281%29.png) enregistrer les modifications ;
+![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
 > **Note :** 
 >
 > ![](../../.gitbook/assets/btn_page_other%20%282%29.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition ou visualiser la page.
 
-![](../../.gitbook/assets/btn_page_remove%20%282%29.png) supprimer le contenu;
+![](../../.gitbook/assets/btn_page_remove.png) supprimer le contenu;
 
 ![](../../.gitbook/assets/btn_page_restore.png) restaurer le contenu à un moment précis, en cas d'erreur par exemple ;
 
@@ -34,9 +34,8 @@ Chaque type de contenu possède ses spécificités propres mais comporte égalem
 
 Une fois les champs saisis, le contenu doit être sauvegardé en cliquant sur le bouton **Enregistrer** :
 
-![](../../.gitbook/assets/btn_page_save%20%282%29.png)
+![](../../.gitbook/assets/btn_page_save.png)
 
 > **Note :**
 >
-> ![](../../.gitbook/assets/btn_page_other%20%281%29.png) la flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.
-
+> ![](../../.gitbook/assets/btn_page_other.png) la flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.

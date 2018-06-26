@@ -44,4 +44,3 @@
   * [Créer un répertoire](fiches-dutilisation-de-typo3/gestion-des-fichiers/creer-un-repertoire.md)
   * [Ajouter un fichier](fiches-dutilisation-de-typo3/gestion-des-fichiers/ajouter-un-fichier.md)
 * [Charte graphique](fiches-dutilisation-de-typo3/charte-graphique.md)
-

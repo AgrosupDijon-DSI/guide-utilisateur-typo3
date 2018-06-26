@@ -32,7 +32,7 @@ Ce champ définit le nombre de média affichés par ligne.
 
 | 2 images sur 1 colonne | 3 images sur 2 colonnes | 5 images sur 3 colonnes |
 | :---: | :---: | :---: |
-| ![](../../../.gitbook/assets/add_content_img_ex3%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2.png) |
+| ![](../../../.gitbook/assets/add_content_img_ex3.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2.png) |
 
 ## Média éléments
 

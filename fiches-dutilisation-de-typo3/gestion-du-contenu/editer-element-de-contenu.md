@@ -13,7 +13,7 @@ Repérer le contenu à modifier et cliquer sur le bouton ![](../../.gitbook/asse
 
 > **Note :**
 >
-> ![](../../.gitbook/assets/hide_btn%20%281%29.png) Cacher/afficher le contenu. Il est possible ainsi de préparer un contenu sans qu'il soit visible par les internautes.
+> ![](../../.gitbook/assets/hide_btn.png) Cacher/afficher le contenu. Il est possible ainsi de préparer un contenu sans qu'il soit visible par les internautes.
 >
-> ![](../../.gitbook/assets/rm_btn%20%281%29.png) Supprimer le contenu.
+> ![](../../.gitbook/assets/rm_btn.png) Supprimer le contenu.
 

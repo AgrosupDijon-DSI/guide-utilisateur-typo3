@@ -28,11 +28,11 @@ La colonne de gauche présente l'arborescence du dossier des ressources \(voir [
 
 La colonne de droite s'actualise avec la liste des fichiers audio présents dans le répertoire choisi.
 
-![](../../../.gitbook/assets/btn_selection_off%20%281%29.png) Fichier non sélectionné
+![](../../../.gitbook/assets/btn_selection_off.png) Fichier non sélectionné
 
 ![](../../../.gitbook/assets/btn_selection_on.png) Fichier sélectionné
 
-![](../../../.gitbook/assets/btn_import%20%281%29.png) Importer la sélection
+![](../../../.gitbook/assets/btn_import.png) Importer la sélection
 
 Sélectionner les images désirées et cliquer sur l'icône **Importer la sélection**.
 
@@ -44,7 +44,7 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **
 
 > **Note :**
 >
-> ![](../../../.gitbook/assets/btn_import_img%20%281%29.png)
+> ![](../../../.gitbook/assets/btn_import_img.png)
 >
 > Il est possible d'ajouter directement un ou plusieurs fichier audio depuis le poste utilisateur, cliquer sur le bouton **Sélectionner et transférer des fichiers**.
 >
@@ -58,7 +58,7 @@ Une fois les fichiers audio importés, ils s'affichent par ordre d'apparition et
 
 ![](../../../.gitbook/assets/hide_btn.png) cacher/afficher le fichier audio ;
 
-![](../../../.gitbook/assets/btn_select%20%281%29.png) sélectionner le fichier pour changer l'ordre d'apparition par glisser/déposer :
+![](../../../.gitbook/assets/btn_select.png) sélectionner le fichier pour changer l'ordre d'apparition par glisser/déposer :
 
 ![](../../../.gitbook/assets/add_content_audio_ordre.png)
 
