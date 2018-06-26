@@ -11,7 +11,7 @@ Le formulaire d'édition permet de modifier diverses informations et de configur
 
 ![](../../.gitbook/assets/admin_typo3_edit_account.png)
 
-> ![](../../.gitbook/assets/save%20%281%29.png)
+> ![](../../.gitbook/assets/save.png)
 >
 > **Note :** pour que les modifications soient sauvegardées, cliquer sur le bouton "Enregistrer" en haut du formulaire.
 

@@ -39,4 +39,3 @@ Une fois les champs saisis, le contenu doit être sauvegardé en cliquant sur le
 > **Note :**
 >
 > ![](../../.gitbook/assets/btn_page_other.png) la flèche sur le bouton permet différentes options après la sauvegarde comme visualiser directement la modification.
-

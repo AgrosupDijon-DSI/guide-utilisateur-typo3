@@ -5,9 +5,9 @@ Pour créer un utilisateur :
 * Sélectionner le mode **User Admin** dans la [Liste des modules](../premiers-pas/se-reperer-dans-le-backend.md) ;
 * Cliquer sur l’icône ![](../../.gitbook/assets/add_user_btn.png)
 
-![](../../.gitbook/assets/btn_page_cancel.png.png) annuler les modifications et retourner à la vue générale des utilisateurs ;
+![](../../.gitbook/assets/btn_page_cancel.png) annuler les modifications et retourner à la vue générale des utilisateurs ;
 
-![](../../.gitbook/assets/btn_page_save%20%281%29.png) enregistrer les modifications ;
+![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
 ![](../../.gitbook/assets/add_user_detail.png)
 

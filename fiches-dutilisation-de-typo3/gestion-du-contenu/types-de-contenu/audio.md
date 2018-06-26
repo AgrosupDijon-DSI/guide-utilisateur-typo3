@@ -54,9 +54,9 @@ En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **
 
 Une fois les fichiers audio importés, ils s'affichent par ordre d'apparition et peuvent être modifiés :
 
-![](../../../.gitbook/assets/rm_btn%20%282%29.png) supprimer le fichier du contenu \(ne le supprime pas du dossier de ressource\) ;
+![](../../../.gitbook/assets/rm_btn.png) supprimer le fichier du contenu \(ne le supprime pas du dossier de ressource\) ;
 
-![](../../../.gitbook/assets/hide_btn%20%282%29.png) cacher/afficher le fichier audio ;
+![](../../../.gitbook/assets/hide_btn.png) cacher/afficher le fichier audio ;
 
 ![](../../../.gitbook/assets/btn_select.png) sélectionner le fichier pour changer l'ordre d'apparition par glisser/déposer :
 
