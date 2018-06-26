@@ -4,7 +4,7 @@ Après identification, TYPO3 propose d'accéder directement à différents espac
 
 ## Barre d'outils
 
-![](../../.gitbook/assets/admin_typo3_head%20%281%29.png)
+![](../../.gitbook/assets/admin_typo3_head.png)
 
 Cette barre, affichée en entête de manière permanente, permet \(de gauche à droite\) :
 

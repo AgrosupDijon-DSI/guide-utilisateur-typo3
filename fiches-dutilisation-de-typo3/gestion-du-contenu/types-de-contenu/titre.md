@@ -6,7 +6,7 @@ A partir de la liste vue dans [Créer un élément de contenu](../creer-un-eleme
 
 Le principal intérêt du contenu de type **Titre** est d'être associé à un contenu particulier qui ne possède pas de titre.
 
-![](../../../.gitbook/assets/add_content_titre2%20%281%29.png)
+![](../../../.gitbook/assets/add_content_titre2.png)
 
 **Renseigner le titre est un "plus" pour la structuration future de la page :**
 

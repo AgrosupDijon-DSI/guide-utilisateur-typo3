@@ -8,19 +8,19 @@ Pour éditer une page :
 
 En haut de la vue détaillée, différentes actions sont proposées :
 
-![](../../.gitbook/assets/btn_page_cancel.png%20%282%29.png) annuler les modifications et retourner à la vue générale de la page ;
+![](../../.gitbook/assets/btn_page_cancel.png.png) annuler les modifications et retourner à la vue générale de la page ;
 
 ![](../../.gitbook/assets/btn_page_save.png) enregistrer les modifications ;
 
 > **Note :** 
 >
-> ![](../../.gitbook/assets/btn_page_other%20%281%29.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition ou visualiser la page.
+> ![](../../.gitbook/assets/btn_page_other%20%283%29.png) permet de sélectionner l'action qui suit l'enregistrement, comme fermer le mode édition ou visualiser la page.
 
-![](../../.gitbook/assets/btn_page_remove%20%282%29.png) supprimer la page ;
+![](../../.gitbook/assets/btn_page_remove.png) supprimer la page ;
 
 ![](../../.gitbook/assets/btn_page_restore%20%281%29.png) restaurer la page à un moment précis, en cas d'erreur par exemple ;
 
-![](../../.gitbook/assets/add_page_edit_1%20%281%29.png)
+![](../../.gitbook/assets/add_page_edit_1.png)
 
 ## Général
 
@@ -52,5 +52,5 @@ En haut de la vue détaillée, différentes actions sont proposées :
 
 ## Ressources
 
-**Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow\) si plusieurs images. Voir la partie [Gestion des fichiers](../gestion-des-fichiers/) pour ajouter des images.
+**Média** : permet d'associer une ou plusieurs images à la page, s'affiche généralement sous forme de bandeau simple ou défilant \(slideshow ou carrousel, voir partie [Bandeau photos](../configuration/bandeau-photos.md)\) si plusieurs images. Voir la partie [Gestion des fichiers](../gestion-des-fichiers/) pour ajouter des images.
 

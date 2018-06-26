@@ -6,7 +6,7 @@ A partir de la liste vue dans [Créer un élément de contenu](../creer-un-eleme
 
 Il est également possible de combiner un élément **Images** avec un élément **Texte**, sélectionner :
 
-![](../../../.gitbook/assets/add_content_texte_images%20%281%29.png)
+![](../../../.gitbook/assets/add_content_texte_images.png)
 
 > **Note :** Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](titre.md).
 >
@@ -60,33 +60,34 @@ Sélectionner les images désirées et cliquer sur ****l'icône **Importer la s�
 
 Si l'image n'existe pas dans le répertoire des ressources, il faut alors la télécharger depuis le poste utilisateur.
 
-![](../../../.gitbook/assets/file_upload%20%282%29.png)
+![](../../../.gitbook/assets/file_upload.png)
 
 En bas de la fenêtre se trouve la zone **Envoyer des fichiers**. Cliquer sur **Parcourir** pour sélectionner les fichiers images depuis le poste utilisateur. Cliquer sur **Envoyer des fichiers** pour télécharger les images dans le répertoire sélectionné dans la colonne arborescence du dossier des ressources.
 
 > **Note :**
 >
-> ![](../../../.gitbook/assets/btn_import_img%20%282%29.png)
+
+> ![](../../../.gitbook/assets/btn_import_img%20%281%29.png)
 >
 > Il est possible d'ajouter directement une ou plusieurs images depuis le poste utilisateur, cliquer sur le bouton **Sélectionner et transférer des fichiers**.
 >
 > Une nouvelle fenêtre \(en fonction du système d'exploitation de l'utilisateur\) pour la sélection du fichier s'affiche. L'image est ainsi téléchargée sur le serveur, dans le dossier des ressources \(voir [Gestion des fichiers](https://www.gitbook.com/book/agrosup-dijon-eduter/guide-utilisation-typo3/edit#)\).
 
-![](../../../.gitbook/assets/add_content_img_list%20%282%29.png)
+![](../../../.gitbook/assets/add_content_img_list.png)
 
 Une fois les images importées, elles s'affichent par ordre d'apparition et peuvent être modifiées :
 
 ![](../../../.gitbook/assets/rm_btn%20%281%29.png) supprimer l'image du contenu \(ne supprime pas l'image du dossier de ressource\) ;
 
-![](../../../.gitbook/assets/hide_btn.png) cacher/afficher l'image ;
+![](../../../.gitbook/assets/hide_btn%20%283%29.png) cacher/afficher l'image ;
 
-![](../../../.gitbook/assets/btn_select.png) sélectionner l'image pour changer l'ordre d'apparition par glisser/déposer :
+![](../../../.gitbook/assets/btn_select%20%282%29.png) sélectionner l'image pour changer l'ordre d'apparition par glisser/déposer :
 
-![](../../../.gitbook/assets/add_content_img_order%20%281%29.png)
+![](../../../.gitbook/assets/add_content_img_order.png)
 
 Cliquer sur **Nom de fichier** pour éditer les informations relatives à l'image ou l'éditer :
 
-![](../../../.gitbook/assets/add_content_img_edit%20%281%29.png)
+![](../../../.gitbook/assets/add_content_img_edit.png)
 
 **Titre :** ajouter un titre pour l'image \(par défaut, le nom du fichier\) ;
 
@@ -114,5 +115,5 @@ Ce champ définit la taille de colonne des images :
 
 | 1/3 | 1/4 | 1/6 | Par défaut \(1/2\) |
 | :---: | :---: | :---: | :---: |
-| ![](../../../.gitbook/assets/add_image_texte_col33%20%281%29.png) | ![](../../../.gitbook/assets/add_image_texte_col25%20%281%29.png) | ![](../../../.gitbook/assets/add_image_texte_col20%20%282%29.png) | ![](../../../.gitbook/assets/add_image_texte_col50.png) |
+| ![](../../../.gitbook/assets/add_image_texte_col33.png) | ![](../../../.gitbook/assets/add_image_texte_col25.png) | ![](../../../.gitbook/assets/add_image_texte_col20.png) | ![](../../../.gitbook/assets/add_image_texte_col50.png) |
 

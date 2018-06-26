@@ -1,6 +1,6 @@
 # Éditer mon compte
 
-![](../../.gitbook/assets/admin_typo3_account%20%281%29.png)
+![](../../.gitbook/assets/admin_typo3_account.png)
 
 Dans la barre d'outils, un sous-menu s'affiche lors du clic sur l'icône ou sur le nom utilisateur. Il est possible ainsi de :
 
@@ -11,7 +11,7 @@ Le formulaire d'édition permet de modifier diverses informations et de configur
 
 ![](../../.gitbook/assets/admin_typo3_edit_account.png)
 
-> ![](../../.gitbook/assets/save.png)
+> ![](../../.gitbook/assets/save%20%281%29.png)
 >
 > **Note :** pour que les modifications soient sauvegardées, cliquer sur le bouton "Enregistrer" en haut du formulaire.
 

@@ -4,17 +4,17 @@
 
 A partir de la liste vue dans [Créer un élément de contenu](../creer-un-element-de-contenu.md), sélectionner :
 
-![](../../../.gitbook/assets/add_content_media%20%281%29.png)
+![](../../../.gitbook/assets/add_content_media.png)
 
 Il est également possible de combiner un élément **Média** avec un élément **Texte**, sélectionner :
 
-![](../../../.gitbook/assets/add_content_media_texte%20%281%29.png)
+![](../../../.gitbook/assets/add_content_media_texte.png)
 
 > **Note :** Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](titre.md).
 >
 > Pour un contenu de type **Texte & Média**, se référer à la fiche dédiée à l'élément [Texte](texte.md).
 
-![](../../../.gitbook/assets/add_content_media_ong%20%281%29.png)
+![](../../../.gitbook/assets/add_content_media_ong.png)
 
 Un onglet **Média** est disponible, il permet d'ajouter une vidéo provenant des services **Youtube** et **Vimeo**.
 
@@ -32,7 +32,8 @@ Ce champ définit le nombre de média affichés par ligne.
 
 | 2 images sur 1 colonne | 3 images sur 2 colonnes | 5 images sur 3 colonnes |
 | :---: | :---: | :---: |
-| ![](../../../.gitbook/assets/add_content_img_ex3.png) | ![](../../../.gitbook/assets/add_content_img_ex1.png) | ![](../../../.gitbook/assets/add_content_img_ex2%20%281%29.png) |
+
+| ![](../../../.gitbook/assets/add_content_img_ex3%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex1%20%281%29.png) | ![](../../../.gitbook/assets/add_content_img_ex2.png) |
 
 ## Média éléments
 
@@ -60,13 +61,13 @@ Dans le champ **Paste media url here**, entrer l'adresse de la vidéo Youtube ou
 
 Une fois les vidéos importées, elles s'affichent par ordre d'apparition et peuvent être modifiées :
 
-![](../../../.gitbook/assets/rm_btn%20%281%29.png) supprimer la vidéo du contenu ;
+![](../../../.gitbook/assets/rm_btn.png) supprimer la vidéo du contenu ;
 
-![](../../../.gitbook/assets/hide_btn.png) cacher/afficher la vidéo ;
+![](../../../.gitbook/assets/hide_btn%20%281%29.png) cacher/afficher la vidéo ;
 
-![](../../../.gitbook/assets/btn_select.png) sélectionner la vidéo pour changer l'ordre d'apparition par glisser/déposer :
+![](../../../.gitbook/assets/btn_select%20%281%29.png) sélectionner la vidéo pour changer l'ordre d'apparition par glisser/déposer :
 
-![](../../../.gitbook/assets/add_content_media_ordre%20%281%29.png)
+![](../../../.gitbook/assets/add_content_media_ordre.png)
 
 Cliquer sur **Titre** pour éditer les informations relatives à l'image ou l'éditer :
 

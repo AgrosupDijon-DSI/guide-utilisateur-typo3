@@ -6,7 +6,7 @@ A partir de la liste vue dans [Créer un élément de contenu](../creer-un-eleme
 
 > **Note :** Comme dans la plupart des types de contenu, il est possible de renseigner un **Titre**. Pour plus d'informations, se référer à la fiche de l'élément [Titre](titre.md).
 
-![](../../../.gitbook/assets/add_content_texte2%20%281%29.png)
+![](../../../.gitbook/assets/add_content_texte2.png)
 
 La zone **Texte** comporte un éditeur de texte spécifique \(appelé RTE : Rich Text Editor ou Éditeur de texte avancé\). Il permet de mettre en forme le texte sans avoir besoin de connaissances en langage html. On retrouve les grandes lignes d'un traitement de texte classique.
 
